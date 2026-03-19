@@ -1,0 +1,4 @@
+#reference "Base/nintendo_n64_base.slangp"
+HSM_DECAL_HUE = "13.000000"
+HSM_DECAL_SATURATION = "121.000000"
+HSM_DECAL_BRIGHTNESS = "200.000000"

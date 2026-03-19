@@ -1,0 +1,2 @@
+#reference "vriom_nintendo_nes_bg1.slangp"
+BackgroundImage = "Graphics/nes_bg2.png"

@@ -1,0 +1,5 @@
+#reference "vriom_nintendo_snes_jp-eu_bg1.slangp"
+HSM_BZL_COLOR_VALUE = "32.000366"
+HSM_FRM_COLOR_VALUE = "24.599873"
+BackgroundImage = "Graphics/snes_jp-eu_bg1_dark.png"
+

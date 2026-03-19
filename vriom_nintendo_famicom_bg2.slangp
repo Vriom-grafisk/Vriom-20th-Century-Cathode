@@ -1,0 +1,2 @@
+#reference "vriom_nintendo_famicom_bg1.slangp"
+BackgroundImage = "Graphics/famicom_bg2.png"

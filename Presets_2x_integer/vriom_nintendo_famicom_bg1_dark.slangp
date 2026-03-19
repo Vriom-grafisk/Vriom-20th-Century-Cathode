@@ -1,0 +1,4 @@
+#reference "vriom_nintendo_famicom_bg1.slangp"
+HSM_BZL_BRIGHTNESS = "4.000000"
+HSM_FRM_COLOR_VALUE = "20.200010"
+BackgroundImage = "../Graphics/famicom_bg1_dark.png"

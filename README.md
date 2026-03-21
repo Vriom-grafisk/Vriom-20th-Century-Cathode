@@ -5,4 +5,13 @@ Place the folder in the regular Mega Bezel packs folder (shaders/Mega_Bezel_Pack
 
 All the root presets are have base integer scales. There's a separate folder for double integer modes.
 
-More info will probably be added if there's interest.
+## Changelog
+
+**v 1.1.2**
+
+* All graphics cleaned up and redone for 8K
+* Improved reflections
+
+**v 1.1.1**
+
+* Initial upload

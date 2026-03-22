@@ -7,11 +7,11 @@ All the root presets are have base integer scales. There's a separate folder for
 
 ## Changelog
 
-**v 1.1.2 2026.03.21**
+**v 1.1.2** 2026.03.21
 
 * All graphics cleaned up and redone for 8K
 * Improved reflections
 
-**v 1.1.1 2026.03.20**
+**v 1.1.1** 2026.03.20
 
 * Initial upload

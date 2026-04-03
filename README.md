@@ -8,8 +8,6 @@ I’ve been exploring old game libraries with my youngest daughter, and together
 
 #### Brief
 
-
-
 Vriom 20th Century Cathode is a collection of pseudo-skeuomorphic Mega Bezel presets for pre-millennial consoles. They aim to simulate the feel of playing games on era appropriate 13-19 inch CRTs and provide more immersive retro gaming experiences.
 
 <br>
@@ -46,8 +44,9 @@ I’m also grateful for feedback on the scripts. I’m not a coder or scripter b
 
 
 
-Current shortlist for fixes:
+Current shortlist for fixes and additions:
 
+* Include more system families
 * Test or simulate tests for 4K and ultrawide displays
 * Clean up and future proof slangp pipelines
 * Test presets on various cores

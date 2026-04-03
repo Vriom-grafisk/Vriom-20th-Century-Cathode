@@ -26,15 +26,9 @@ Post-millennial systems are outside the project’s scope. CRTs survived well in
 
 #### Future Plans/Improvements
 
-
-
 We were a Nintendo home, but I have distinct memories of playing Atari, Sega or Commodore games at other people’s houses, again often on secondary TV sets. The idea is to expand the collection to include more system families. I’ll update the list as I go. Input from people who grew up with non-Nintendo sets is very welcome.
 
-
-
 I’m also grateful for feedback on the scripts. I’m not a coder or scripter beyond markup/CSS, so I’m just yanking wires until I understand what’s going on. I’m sure the slangps are atrocious, so feel free to let me know how I’ve screwed up. I understand the idea of a cascading pipeline, but what I’m doing is not optimalized in any way.
-
-
 
 Current shortlist for fixes and additions:
 
@@ -47,15 +41,9 @@ Current shortlist for fixes and additions:
 
 #### Current Presets
 
-
-
 Generally, all presets contain two backgrounds – one barebones and one more elaborate – and dark versions of each of these. There are exceptions.
 
-
-
 ##### Nintendo
-
-
 
 * Famicom (2 backgrounds + dark modes)
 * Nintendo Entertainment System (2 backgrounds + dark modes)
@@ -63,27 +51,17 @@ Generally, all presets contain two backgrounds – one barebones and one more el
 * Super Nintendo Entertainment System US (2 backgrounds + dark modes)
 * Nintendo 64 (Variants based on the Funtastic series: Fire Orange, Grape Purple, Ice Blue, Jungle Green, Smoke Black, Watermelon Red)
 
-
-
 All presets are also available as +1 integer upscales.
 
 <br>
 
 #### Screenshots/Technical Rundown
 
-
-
 ##### Nintendo NES/Famicom
-
-
 
 The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mitsubishi mono sets from the same period. The Famicom is a lightly modified Paxon DM-405 color monitor.
 
-
-
 ##### Nintendo SNES/SFC
-
-
 
 The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflect the overall shape of the SNES, so I went a bit more literal with the button designs to compensate. The Super Famicom is generally inspired by Grundig CRTs from the first half of the 1990s.
 
@@ -95,18 +73,11 @@ The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflec
 
 <img width="2560" height="1440" alt="Rockman   Forte (Japan)-260403-143536" src="https://github.com/user-attachments/assets/cf4b1279-27e4-4c63-b304-6130540280cf" />
 
-
 ##### Nintendo 64
-
-
 
 A heavily modified LG Netee from 1999. The presets are based on the translucent Funtastic consoles, and the fullscreen glow has been configured to light up the plastic as you play.
 
-
-
 The color is applied by the decal layer, which contains a PNG with a 0° hue value (pure red). If you want to use a value not available in the presets, you can offset this value to pick any hue you’d like.
-
-
 
 N64 games are notoriously inconsistent when it comes to scaling. The preset snaps to integer scales, so scaling up the video by a few percentages forces the preset graphics to contract. If you pick the color you want, adjust the video scale and save a game level preset, you’ll be set.
 
@@ -114,15 +85,11 @@ N64 games are notoriously inconsistent when it comes to scaling. The preset snap
 
 #### Installation
 
-
-
 Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_Packs). 
 
 <br>
 
 #### Changelog
-
-
 
 **v 1.1.3** 2026.04.03
 
@@ -130,22 +97,11 @@ Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_
 * Further graphical improvements
 * Further reflection improvements
 
-
-
-
-
 **v 1.1.2** 2026.03.21
 
 * All graphics cleaned up and redone for 8K
 * Improved reflections
 
-
-
 **v 1.1.1** 2026.03.20
 
 * Initial upload
-
-
-
-
-

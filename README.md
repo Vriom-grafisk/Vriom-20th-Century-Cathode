@@ -6,13 +6,13 @@ I’ve been exploring old game libraries with my youngest daughter, and together
 
 <br>
 
-#### Brief
+### Brief
 
 Vriom 20th Century Cathode is a collection of pseudo-skeuomorphic Mega Bezel presets for pre-millennial consoles. They aim to simulate the feel of playing games on era appropriate 13-19 inch CRTs and provide more immersive retro gaming experiences.
 
 <br>
 
-#### Philosophy
+### Philosophy
 
 In a sense, the goal is similar to that of Soqueroeu’s presets, but messier. The Soqueroeu set is a wonderful, disciplined and consistent collection of retro screens, and this is not that. This is more about playing games on the small spare TV in the basement, away from the living room where parents are tired of hearing bleeps and bloops. You didn’t play on the TV you wanted, you played on the TV you had. Sometimes the colors bled, sometimes the screen was curved as all heck, sometimes it emitted a high pitch whine. Sometimes it attracted so much dust you started to worry.
 
@@ -24,13 +24,13 @@ Post-millennial systems are outside the project’s scope. CRTs survived well in
 
 <br>
 
-#### Future Plans/Improvements
+### Future Plans/Improvements
 
 We were a Nintendo home, but I have distinct memories of playing Atari, Sega or Commodore games at other people’s houses, again often on secondary TV sets. The idea is to expand the collection to include more system families. I’ll update the list as I go. Input from people who grew up with non-Nintendo sets is very welcome.
 
 I’m also grateful for feedback on the scripts. I’m not a coder or scripter beyond markup/CSS, so I’m just yanking wires until I understand what’s going on. I’m sure the slangps are atrocious, so feel free to let me know how I’ve screwed up. I understand the idea of a cascading pipeline, but what I’m doing is not optimalized in any way.
 
-Current shortlist for fixes and additions:
+#### Current shortlist for fixes and additions:
 
 * Include more system families
 * Test or simulate tests for 4K and ultrawide displays
@@ -39,7 +39,7 @@ Current shortlist for fixes and additions:
 
 <br>
 
-#### Current Presets
+### Current Presets
 
 Generally, all presets contain two backgrounds – one barebones and one more elaborate – and dark versions of each of these. There are exceptions.
 
@@ -55,13 +55,13 @@ All presets are also available as +1 integer upscales.
 
 <br>
 
-#### Screenshots/Technical Rundown
+### Screenshots/Technical Rundown
 
-##### Nintendo NES/Famicom
+#### Nintendo NES/Famicom
 
 The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mitsubishi mono sets from the same period. The Famicom is a lightly modified Paxon DM-405 color monitor.
 
-##### Nintendo SNES/SFC
+#### Nintendo SNES/SFC
 
 The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflect the overall shape of the SNES, so I went a bit more literal with the button designs to compensate. The Super Famicom is generally inspired by Grundig CRTs from the first half of the 1990s.
 
@@ -73,7 +73,7 @@ The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflec
 
 <img width="2560" height="1440" alt="Rockman   Forte (Japan)-260403-143536" src="https://github.com/user-attachments/assets/cf4b1279-27e4-4c63-b304-6130540280cf" />
 
-##### Nintendo 64
+#### Nintendo 64
 
 A heavily modified LG Netee from 1999. The presets are based on the translucent Funtastic consoles, and the fullscreen glow has been configured to light up the plastic as you play.
 
@@ -83,13 +83,13 @@ N64 games are notoriously inconsistent when it comes to scaling. The preset snap
 
 <br>
 
-#### Installation
+### Installation
 
 Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_Packs). 
 
 <br>
 
-#### Changelog
+### Changelog
 
 **v 1.1.3** 2026.04.03
 

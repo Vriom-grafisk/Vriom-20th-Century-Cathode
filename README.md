@@ -105,7 +105,7 @@ The color is applied by the decal layer, which contains a PNG with a 0° hue val
 
 <br>
 
-N64 games are notoriously inconsistent when it comes to scaling. The preset snaps to integer scales, so scaling up the video by a few percentages forces the preset graphics to contract. If you pick the color you want, adjust the video scale and save a game level preset, you’ll be set.
+N64 games are notoriously inconsistent when it comes to scaling. The preset snaps to integer scales, so scaling up the video by a few percentages forces the preset graphics to contract. If you pick the color you want, adjust the video crop zoom and save a game level preset, you’ll be set.
 
 <img width="2559" height="1437" alt="image" src="https://github.com/user-attachments/assets/65f257bd-7931-451f-b513-e5b6493f093c" />
 

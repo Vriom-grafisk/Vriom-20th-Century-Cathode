@@ -69,7 +69,7 @@ The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mit
 
 <img width="2560" height="1440" alt="Super C (USA)-260403-145938" src="https://github.com/user-attachments/assets/56155afc-71ba-46a2-94b6-f3ea660c29f1" />
 
-<br>
+<br><br>
 
 #### Nintendo SNES/SFC
 
@@ -83,7 +83,7 @@ The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflec
 
 <img width="2560" height="1440" alt="Rockman   Forte (Japan)-260403-143536" src="https://github.com/user-attachments/assets/cf4b1279-27e4-4c63-b304-6130540280cf" />
 
-<br>
+<br><br>
 
 #### Nintendo 64
 
@@ -91,14 +91,14 @@ A heavily modified LG Netee from 1999. The presets are based on the translucent 
 
 <img width="2560" height="1440" alt="Diddy Kong Racing (U) (M2) (V1 1)  ! -260403-151309" src="https://github.com/user-attachments/assets/d310cb39-3f78-406a-9153-f6ae47079cbc" />
 
-<br>
+<br><br>
 
 The color is applied by the decal layer, which contains a PNG with a 0° hue value (pure red). If you want to use a value not available in the presets, you can offset this value to pick any hue you’d like.
 
 <img width="12165" height="5214" alt="nintendo_n64_decal" src="https://github.com/user-attachments/assets/4cd4d8d9-0bf5-4eaa-ba12-2a2c3115e9d3" />
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/5964c78d-4b5b-4c4a-bc92-014e4984c9d1" />
 
-<br>
+<br><br>
 
 N64 games are notoriously inconsistent when it comes to scaling. The preset snaps to integer scales, so scaling up the video by a few percentages forces the preset graphics to contract. If you pick the color you want, adjust the video scale and save a game level preset, you’ll be set.
 

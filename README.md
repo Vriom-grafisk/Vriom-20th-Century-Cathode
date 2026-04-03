@@ -43,7 +43,7 @@ I’m also grateful for feedback on the scripts. I’m not a coder or scripter b
 
 Generally, all presets contain two backgrounds – one barebones and one more elaborate – and dark versions of each of these. There are exceptions.
 
-##### Nintendo
+#### Nintendo
 
 * Famicom (2 backgrounds + dark modes)
 * Nintendo Entertainment System (2 backgrounds + dark modes)
@@ -60,6 +60,14 @@ All presets are also available as +1 integer upscales.
 #### Nintendo NES/Famicom
 
 The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mitsubishi mono sets from the same period. The Famicom is a lightly modified Paxon DM-405 color monitor.
+
+<img width="2560" height="1440" alt="Batman - The Video Game (USA)-260403-150839" src="https://github.com/user-attachments/assets/eb531acd-638f-4053-bf14-b3e075d49778" />
+
+<img width="2560" height="1440" alt="Shadowgate (USA)-260403-150314" src="https://github.com/user-attachments/assets/702a28ad-344e-4c4b-b0e2-c27e6cf674cd" />
+
+<img width="2560" height="1440" alt="Super Mario Bros  2 (USA)-260403-145705" src="https://github.com/user-attachments/assets/66febe73-3db7-4bab-8a5e-79945a913f9c" />
+
+<img width="2560" height="1440" alt="Super C (USA)-260403-145938" src="https://github.com/user-attachments/assets/56155afc-71ba-46a2-94b6-f3ea660c29f1" />
 
 #### Nintendo SNES/SFC
 

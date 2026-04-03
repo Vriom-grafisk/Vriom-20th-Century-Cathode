@@ -1,8 +1,8 @@
-<img width="2674" height="583" alt="logo" src="https://github.com/user-attachments/assets/def9089e-0a4e-4af1-b6b9-e450a5e2a701" />
+<p><img width="2674" height="583" alt="logo" src="https://github.com/user-attachments/assets/def9089e-0a4e-4af1-b6b9-e450a5e2a701" /></p>
 
 
 
-I’ve been exploring old game libraries with my youngest daughter, and together we have been working on a collection of presets to recreate an appropriate visual context for these games. The whole thing kind of grew beyond the original scope and turned into a hobby project, and I’ve decided to make the files available in case somebody is looking for something similar.
+<p>I’ve been exploring old game libraries with my youngest daughter, and together we have been working on a collection of presets to recreate an appropriate visual context for these games. The whole thing kind of grew beyond the original scope and turned into a hobby project, and I’ve decided to make the files available in case somebody is looking for something similar.</p>
 
 
 

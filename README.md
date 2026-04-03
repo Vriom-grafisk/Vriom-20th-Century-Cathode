@@ -14,19 +14,11 @@ Vriom 20th Century Cathode is a collection of pseudo-skeuomorphic Mega Bezel pre
 
 #### Philosophy
 
-
-
 In a sense, the goal is similar to that of Soqueroeu’s presets, but messier. The Soqueroeu set is a wonderful, disciplined and consistent collection of retro screens, and this is not that. This is more about playing games on the small spare TV in the basement, away from the living room where parents are tired of hearing bleeps and bloops. You didn’t play on the TV you wanted, you played on the TV you had. Sometimes the colors bled, sometimes the screen was curved as all heck, sometimes it emitted a high pitch whine. Sometimes it attracted so much dust you started to worry.
-
-
 
 The procedure: I scour the internet for CRTs from the appropriate time frame that share design sensibilities with the console in question. I then Frankenstein together a base for each preset and add colors, shapes and elements from the relevant consoles to reinforce the connection to the game platform. Photographic elements are used when possible, with vector based augmentations where needed. I then create a preset where the composite TV I’ve put together dictates the shape and curvature of the screen. Finally, I dial in the CRT settings to conform to my own memories of what these games should look like.
 
-
-
 The goal is not to accurately reproduce every subpixel in a way that’s only possible on UHD HDR TVs. The goal is also not to present each system using the exact same parameters or form factors. This is a feelings-first approach with a few random variables affecting the experience, like in real life. Still, all scaling is integer based and I do try to get the math right whenever math is needed
-
-
 
 Post-millennial systems are outside the project’s scope. CRTs survived well into the 2000s, but gen 6 generally didn’t have to work within the CRT limitations the way older, more sprite based systems did. If I do decide to include the 1998 Sega Dreamcast despite it being a gen 6 console, it’ll be included with presets for other CD-based systems.
 

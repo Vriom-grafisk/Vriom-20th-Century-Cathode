@@ -108,7 +108,12 @@ The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflec
 
 <img width="2560" height="1440" alt="Super Castlevania IV (USA)-260403-142358" src="https://github.com/user-attachments/assets/2633eeaf-7828-492a-b266-5e1b31ee7fd4" />
 
+<img width="2560" height="1440" alt="Donkey Kong Country 2 - Diddy&#39;s Kong Quest (USA) (En,Fr) (Rev 1)-260403-144424" src="https://github.com/user-attachments/assets/cc542d7a-15f2-461f-83d7-3ed41476daa4" />
+
+<img width="2560" height="1440" alt="Super Mario World (USA)-260403-144235" src="https://github.com/user-attachments/assets/48f7c1dc-ce1d-4497-b08d-09a74d69c7ee" />
+
 <img width="2560" height="1440" alt="Rockman   Forte (Japan)-260403-143536" src="https://github.com/user-attachments/assets/cf4b1279-27e4-4c63-b304-6130540280cf" />
+
 
 ##### Nintendo 64
 

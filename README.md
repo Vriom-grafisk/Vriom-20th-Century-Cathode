@@ -4,9 +4,7 @@
 
 I’ve been exploring old game libraries with my youngest daughter, and together we have been working on a collection of presets to recreate an appropriate visual context for these games. The whole thing kind of grew beyond the original scope and turned into a hobby project, and I’ve decided to make the files available in case somebody is looking for something similar.
 
-
 <br>
-
 
 #### Brief
 
@@ -14,9 +12,7 @@ I’ve been exploring old game libraries with my youngest daughter, and together
 
 Vriom 20th Century Cathode is a collection of pseudo-skeuomorphic Mega Bezel presets for pre-millennial consoles. They aim to simulate the feel of playing games on era appropriate 13-19 inch CRTs and provide more immersive retro gaming experiences.
 
-
-
-
+<br>
 
 #### Philosophy
 
@@ -36,9 +32,7 @@ The goal is not to accurately reproduce every subpixel in a way that’s only po
 
 Post-millennial systems are outside the project’s scope. CRTs survived well into the 2000s, but gen 6 generally didn’t have to work within the CRT limitations the way older, more sprite based systems did. If I do decide to include the 1998 Sega Dreamcast despite it being a gen 6 console, it’ll be included with presets for other CD-based systems.
 
-
-
-
+<br>
 
 #### Future Plans/Improvements
 

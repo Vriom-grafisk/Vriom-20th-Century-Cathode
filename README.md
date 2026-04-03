@@ -57,7 +57,7 @@ All presets are also available as +1 integer upscales.
 
 ### Videos/Screenshots/Technical Rundown
 
-https://www.youtube.com/2HOGcB_a104?si=7rMNkuItoyV6_Kw9
+[![Video Title](https://img.youtube.com/vi/2HOGcB_a104/0.jpg)](https://www.youtube.com/watch?v=2HOGcB_a104)
 
 #### Nintendo NES/Famicom
 

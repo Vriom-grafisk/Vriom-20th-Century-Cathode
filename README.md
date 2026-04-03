@@ -10,7 +10,7 @@ I’ve been exploring old game libraries with my youngest daughter, and together
 
 
 
-##### Brief
+#### Brief
 
 
 
@@ -20,7 +20,7 @@ Vriom 20th Century Cathode is a collection of pseudo-skeuomorphic Mega Bezel pre
 
 
 
-##### Philosophy
+#### Philosophy
 
 
 
@@ -42,7 +42,7 @@ Post-millennial systems are outside the project’s scope. CRTs survived well in
 
 
 
-##### Future Plans/Improvements
+#### Future Plans/Improvements
 
 
 
@@ -64,7 +64,7 @@ Current shortlist for fixes:
 
 
 
-##### Current Presets
+#### Current Presets
 
 
 
@@ -72,7 +72,7 @@ Generally, all presets contain two backgrounds – one barebones and one more el
 
 
 
-###### Nintendo
+##### Nintendo
 
 
 
@@ -88,11 +88,11 @@ All presets are also available as +1 integer upscales.
 
 
 
-##### Screenshots/Technical Rundown
+#### Screenshots/Technical Rundown
 
 
 
-###### Nintendo NES/Famicom
+##### Nintendo NES/Famicom
 
 
 
@@ -100,7 +100,7 @@ The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mit
 
 
 
-###### Nintendo SNES/SFC
+##### Nintendo SNES/SFC
 
 
 
@@ -108,7 +108,7 @@ The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflec
 
 
 
-###### Nintendo 64
+##### Nintendo 64
 
 
 
@@ -126,7 +126,7 @@ N64 games are notoriously inconsistent when it comes to scaling. The preset snap
 
 
 
-##### Installation
+#### Installation
 
 
 
@@ -136,7 +136,7 @@ Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_
 
 
 
-##### Changelog
+#### Changelog
 
 
 

@@ -90,6 +90,8 @@ A heavily modified LG Netee from 1999. The presets are based on the translucent 
 The color is applied by the decal layer, which contains a PNG with a 0° hue value (pure red). If you want to use a value not available in the presets, you can offset this value to pick any hue you’d like.
 
 <img width="12165" height="5214" alt="nintendo_n64_decal" src="https://github.com/user-attachments/assets/4cd4d8d9-0bf5-4eaa-ba12-2a2c3115e9d3" />
+<img width="2559" height="1438" alt="image" src="https://github.com/user-attachments/assets/fdca6b41-d940-4b86-b606-7490ebd7e1f8" />
+
 
 N64 games are notoriously inconsistent when it comes to scaling. The preset snaps to integer scales, so scaling up the video by a few percentages forces the preset graphics to contract. If you pick the color you want, adjust the video scale and save a game level preset, you’ll be set.
 

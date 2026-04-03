@@ -52,9 +52,7 @@ Current shortlist for fixes:
 * Clean up and future proof slangp pipelines
 * Test presets on various cores
 
-
-
-
+<br>
 
 #### Current Presets
 
@@ -78,7 +76,7 @@ Generally, all presets contain two backgrounds – one barebones and one more el
 
 All presets are also available as +1 integer upscales.
 
-
+<br>
 
 #### Screenshots/Technical Rundown
 
@@ -121,9 +119,7 @@ The color is applied by the decal layer, which contains a PNG with a 0° hue val
 
 N64 games are notoriously inconsistent when it comes to scaling. The preset snaps to integer scales, so scaling up the video by a few percentages forces the preset graphics to contract. If you pick the color you want, adjust the video scale and save a game level preset, you’ll be set.
 
-
-
-
+<br>
 
 #### Installation
 
@@ -131,9 +127,7 @@ N64 games are notoriously inconsistent when it comes to scaling. The preset snap
 
 Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_Packs). 
 
-
-
-
+<br>
 
 #### Changelog
 

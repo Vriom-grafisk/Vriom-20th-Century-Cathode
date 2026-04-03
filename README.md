@@ -1,6 +1,4 @@
-# Vriom 20th Century Cathode
-
-
+<img width="2674" height="583" alt="logo" src="https://github.com/user-attachments/assets/def9089e-0a4e-4af1-b6b9-e450a5e2a701" />
 
 
 

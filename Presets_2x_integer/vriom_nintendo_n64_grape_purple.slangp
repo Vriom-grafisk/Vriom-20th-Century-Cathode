@@ -1,4 +1,2 @@
-#reference "../Base/nintendo_n64_2x_integer.slangp"
-HSM_DECAL_HUE = "258.000000"
-HSM_DECAL_SATURATION = "110.000000"
-HSM_DECAL_BRIGHTNESS = "100.000000"
+#reference "../vriom_nintendo_n64_grape_purple.slangp"
+#reference "../Base/2x_integer.slangp"

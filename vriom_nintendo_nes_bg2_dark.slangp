@@ -1,4 +1,5 @@
-#reference "vriom_nintendo_nes_bg1.slangp"
-HSM_BZL_BRIGHTNESS = "4.000000"
+#reference "vriom_nintendo_nes_bg2.slangp"
+#reference "Base/dark_mode.slangp"
+
+HSM_BZL_BRIGHTNESS = "6.000000"
 HSM_FRM_COLOR_VALUE = "22.400019"
-BackgroundImage = "Graphics/nes_bg2_dark.png"

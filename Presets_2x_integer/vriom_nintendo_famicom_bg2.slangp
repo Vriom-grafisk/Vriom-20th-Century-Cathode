@@ -1,2 +1,2 @@
-#reference "vriom_nintendo_famicom_bg1.slangp"
-BackgroundImage = "../Graphics/famicom_bg2.png"
+#reference "../vriom_nintendo_famicom_bg2.slangp"
+#reference "../Base/2x_integer.slangp"

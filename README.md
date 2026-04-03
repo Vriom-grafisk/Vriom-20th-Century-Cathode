@@ -1,17 +1,167 @@
 # Vriom 20th Century Cathode
-Mega Bezel presets simulating the experience of playing games on a 13-19 inch CRT. At the moment, only pre-2000 Nintendo consoles are supported. More console families might be added down the line, but post-millennial consoles aren't within the scope of this project.
 
-Place the folder in the regular Mega Bezel packs folder (shaders/Mega_Bezel_Packs) and you should be good to go.
 
-All the root presets are have base integer scales. There's a separate folder for double integer modes.
 
-## Changelog
+
+
+I’ve been exploring old game libraries with my youngest daughter, and together we have been working on a collection of presets to recreate an appropriate visual context for these games. The whole thing kind of grew beyond the original scope and turned into a hobby project, and I’ve decided to make the files available in case somebody is looking for something similar.
+
+
+
+
+
+##### Brief
+
+
+
+Vriom 20th Century Cathode is a collection of pseudo-skeuomorphic Mega Bezel presets for pre-millennial consoles. They aim to simulate the feel of playing games on era appropriate 13-19 inch CRTs and provide more immersive retro gaming experiences.
+
+
+
+
+
+##### Philosophy
+
+
+
+In a sense, the goal is similar to that of Soqueroeu’s presets, but messier. The Soqueroeu set is a wonderful, disciplined and consistent collection of retro screens, and this is not that. This is more about playing games on the small spare TV in the basement, away from the living room where parents are tired of hearing bleeps and bloops. You didn’t play on the TV you wanted, you played on the TV you had. Sometimes the colors bled, sometimes the screen was curved as all heck, sometimes it emitted a high pitch whine. Sometimes it attracted so much dust you started to worry.
+
+
+
+The procedure: I scour the internet for CRTs from the appropriate time frame that share design sensibilities with the console in question. I then Frankenstein together a base for each preset and add colors, shapes and elements from the relevant consoles to reinforce the connection to the game platform. Photographic elements are used when possible, with vector based augmentations where needed. I then create a preset where the composite TV I’ve put together dictates the shape and curvature of the screen. Finally, I dial in the CRT settings to conform to my own memories of what these games should look like.
+
+
+
+The goal is not to accurately reproduce every subpixel in a way that’s only possible on UHD HDR TVs. The goal is also not to present each system using the exact same parameters or form factors. This is a feelings-first approach with a few random variables affecting the experience, like in real life. Still, all scaling is integer based and I do try to get the math right whenever math is needed
+
+
+
+Post-millennial systems are outside the project’s scope. CRTs survived well into the 2000s, but gen 6 generally didn’t have to work within the CRT limitations the way older, more sprite based systems did. If I do decide to include the 1998 Sega Dreamcast despite it being a gen 6 console, it’ll be included with presets for other CD-based systems.
+
+
+
+
+
+##### Future Plans/Improvements
+
+
+
+We were a Nintendo home, but I have distinct memories of playing Atari, Sega or Commodore games at other people’s houses, again often on secondary TV sets. The idea is to expand the collection to include more system families. I’ll update the list as I go. Input from people who grew up with non-Nintendo sets is very welcome.
+
+
+
+I’m also grateful for feedback on the scripts. I’m not a coder or scripter beyond markup/CSS, so I’m just yanking wires until I understand what’s going on. I’m sure the slangps are atrocious, so feel free to let me know how I’ve screwed up. I understand the idea of a cascading pipeline, but what I’m doing is not optimalized in any way.
+
+
+
+Current shortlist for fixes:
+
+* Test or simulate tests for 4K and ultrawide displays
+* Clean up and future proof slangp pipelines
+* Test presets on various cores
+
+
+
+
+
+##### Current Presets
+
+
+
+Generally, all presets contain two backgrounds – one barebones and one more elaborate – and dark versions of each of these. There are exceptions.
+
+
+
+###### Nintendo
+
+
+
+* Famicom (2 backgrounds + dark modes)
+* Nintendo Entertainment System (2 backgrounds + dark modes)
+* Super Famicom/Super Nintendo Entertainment System EU (2 backgrounds + dark modes)
+* Super Nintendo Entertainment System US (2 backgrounds + dark modes)
+* Nintendo 64 (Variants based on the Funtastic series: Fire Orange, Grape Purple, Ice Blue, Jungle Green, Smoke Black, Watermelon Red)
+
+
+
+All presets are also available as +1 integer upscales.
+
+
+
+##### Screenshots/Technical Rundown
+
+
+
+###### Nintendo NES/Famicom
+
+
+
+The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mitsubishi mono sets from the same period. The Famicom is a lightly modified Paxon DM-405 color monitor.
+
+
+
+###### Nintendo SNES/SFC
+
+
+
+The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflect the overall shape of the SNES, so I went a bit more literal with the button designs to compensate. The Super Famicom is generally inspired by Grundig CRTs from the first half of the 1990s.
+
+
+
+###### Nintendo 64
+
+
+
+A heavily modified LG Netee from 1999. The presets are based on the translucent Funtastic consoles, and the fullscreen glow has been configured to light up the plastic as you play.
+
+
+
+The color is applied by the decal layer, which contains a PNG with a 0° hue value (pure red). If you want to use a value not available in the presets, you can offset this value to pick any hue you’d like.
+
+
+
+N64 games are notoriously inconsistent when it comes to scaling. The preset snaps to integer scales, so scaling up the video by a few percentages forces the preset graphics to contract. If you pick the color you want, adjust the video scale and save a game level preset, you’ll be set.
+
+
+
+
+
+##### Installation
+
+
+
+Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_Packs). 
+
+
+
+
+
+##### Changelog
+
+
+
+**v 1.1.3** 2026.04.03
+
+* Reworked slangp pipeline — full replacement needed after download
+* Further graphical improvements
+* Further reflection improvements
+
+
+
+
 
 **v 1.1.2** 2026.03.21
 
 * All graphics cleaned up and redone for 8K
 * Improved reflections
 
+
+
 **v 1.1.1** 2026.03.20
 
 * Initial upload
+
+
+
+
+

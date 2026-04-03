@@ -106,7 +106,9 @@ The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mit
 
 The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflect the overall shape of the SNES, so I went a bit more literal with the button designs to compensate. The Super Famicom is generally inspired by Grundig CRTs from the first half of the 1990s.
 
+<img width="2560" height="1440" alt="Super Castlevania IV (USA)-260403-142358" src="https://github.com/user-attachments/assets/2633eeaf-7828-492a-b266-5e1b31ee7fd4" />
 
+<img width="2560" height="1440" alt="Rockman   Forte (Japan)-260403-143536" src="https://github.com/user-attachments/assets/cf4b1279-27e4-4c63-b304-6130540280cf" />
 
 ##### Nintendo 64
 

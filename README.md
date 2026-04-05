@@ -125,17 +125,18 @@ Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_
 
 ### Changelog
 
-**v 1.1.3** 2026.04.03
+**v 1.0.2** 2026.04.03
 
 * Reworked slangp pipeline — full replacement needed after download
+* Widths up to 21:9 now supported
 * Further graphical improvements
 * Further reflection improvements
 
-**v 1.1.2** 2026.03.21
+**v 1.0.1** 2026.03.21
 
 * All graphics cleaned up and redone for 8K
 * Improved reflections
 
-**v 1.1.1** 2026.03.20
+**v 1.0.0** 2026.03.20
 
 * Initial upload

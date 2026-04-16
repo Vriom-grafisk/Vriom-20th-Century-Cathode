@@ -1,4 +1,0 @@
-#reference "vriom_nintendo_famicom_bg2.slangp"
-#reference "Base/dark_mode.slangp"
-HSM_BZL_BRIGHTNESS = "4.000000"
-HSM_FRM_COLOR_VALUE = "20.200010"

@@ -74,6 +74,8 @@ Initial upload reel:
 
 [![20th Century Cathode](https://img.youtube.com/vi/2HOGcB_a104/0.jpg)](https://www.youtube.com/watch?v=2HOGcB_a104)
 
+Screenshots may be slightly out of date.
+
 #### Nintendo NES/Famicom
 
 The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mitsubishi mono sets from the same period. The Famicom is a lightly modified Paxon DM-405 color monitor.
@@ -125,6 +127,32 @@ The color is applied by the decal layer, which contains a PNG with a 0° hue val
 N64 games are notoriously inconsistent when it comes to scaling. The preset snaps to integer scales, so scaling up the video by a few percentages forces the preset graphics to contract. If you pick the color you want, adjust the video crop zoom and save a game level preset, you’ll be set.
 
 <img width="2559" height="1437" alt="image" src="https://github.com/user-attachments/assets/65f257bd-7931-451f-b513-e5b6493f093c" />
+
+<br>
+
+#### Sega SG-1000
+
+<img width="2560" height="1440" alt="Rock n&#39; Bolt (JP)-260416-134554" src="https://github.com/user-attachments/assets/2068194c-1eb9-468a-a4a7-333bd0369126" />
+
+I got a bit goofy with this one. The preset is based on Panasonic TR-602S, and the whole design is meant to include some holdovers from 1970s trends. The screen is wildly curved, but then again I don't see people playing these games for extended periods. And hey, these games were compatible with the Mark III as well if you want a less intense experience.
+
+<br>
+
+#### Sega Mark III/Master System
+
+The Mark III is based on the RCA FPR505W, while the Master System is a Sansui SV-M25 (almost completely redrawn in vector, but holy smokes, check out the original, it was basically made for the Master System).
+
+
+
+<br>
+
+#### Sega Genesis/Mega Drive
+
+<br>
+
+#### Sega Saturn
+
+
 
 <br><br>
 

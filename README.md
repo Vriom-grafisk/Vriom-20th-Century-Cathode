@@ -142,11 +142,18 @@ I got a bit goofy with this one. The preset is based on Panasonic TR-602S, and t
 
 The Mark III is based on the RCA FPR505W, while the Master System is a Sansui SV-M25 (almost completely redrawn in vector, but holy smokes, check out the original, it was basically made for the Master System).
 
+<img width="2560" height="1440" alt="Sega Flipper (JP)-260416-140814" src="https://github.com/user-attachments/assets/80f45e7b-344b-4a5b-ab33-374d0cf53c9b" />
 
+
+<img width="2560" height="1440" alt="Alex Kidd in Miracle World (USA, Europe)-260416-140954" src="https://github.com/user-attachments/assets/6639953b-0dc3-494e-94f9-4b0ae5569ee0" />
 
 <br>
 
 #### Sega Genesis/Mega Drive
+
+In an attempt to recreate the infamous "tower of power", I've stacked a modified Panasonic PV-M2023 toploader CRT/VHS combo on top of a CD component player. 
+
+REAME WILL BE UPDATED LATER TODAY
 
 <br>
 

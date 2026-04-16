@@ -8,7 +8,7 @@ I’ve been exploring old game libraries with my youngest daughter, and together
 
 ### Brief
 
-Vriom 20th Century Cathode is a collection of pseudo-skeuomorphic Mega Bezel presets for pre-millennial consoles. They aim to simulate the feel of playing games on era appropriate 13-19 inch CRTs and provide more immersive retro gaming experiences.
+Vriom 20th Century Cathode is a collection of skeuomorphic Mega Bezel presets for pre-millennial consoles. They aim to simulate the feel of playing games on era appropriate 13-19 inch CRTs and provide more immersive retro gaming experiences.
 
 <br>
 
@@ -35,7 +35,6 @@ I’m also grateful for feedback on the scripts. I’m not a coder or scripter b
 * Include more system families
 * Test or simulate tests for 4K and ultrawide displays
 * Clean up and future proof slangp pipelines
-* Test presets on various cores
 
 <br>
 
@@ -51,6 +50,14 @@ Generally, all presets contain two backgrounds – one barebones and one more el
 * Super Nintendo Entertainment System US (2 backgrounds + dark modes)
 * Nintendo 64 (Variants based on the Funtastic series: Fire Orange, Grape Purple, Ice Blue, Jungle Green, Smoke Black, Watermelon Red)
 
+#### Sega
+
+* SG-1000 (1 background + dark modes)
+* Mark III (2 backgrounds + dark modes)
+* Master System (2 backgrounds + dark modes)
+* Genesis/Mega Drive/32X/Sega CD (2 backgrounds + dark modes)
+* Saturn (5 variants: Model 1 JP, Model 1 US, Model 2 JP, Model 2 US, Model 2 Skeleton)
+
 All presets are also available as +1 integer upscales.
 
 <br>
@@ -59,9 +66,13 @@ All presets are also available as +1 integer upscales.
 
 #### Videos
 
+The Nintendon't Update reel:
+
+[![20th Century Cathode](https://img.youtube.com/vi/CJUY3IheIKo/0.jpg)]([https://www.youtube.com/watch?v=2HOGcB_a104](https://www.youtube.com/watch?v=CJUY3IheIKo))
+
 Initial upload reel:
 
-[![Video Title](https://img.youtube.com/vi/2HOGcB_a104/0.jpg)](https://www.youtube.com/watch?v=2HOGcB_a104)
+[![20th Century Cathode](https://img.youtube.com/vi/2HOGcB_a104/0.jpg)](https://www.youtube.com/watch?v=2HOGcB_a104)
 
 #### Nintendo NES/Famicom
 
@@ -124,6 +135,13 @@ Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_
 <br>
 
 ### Changelog
+
+**v 2.0.0** 2026.04.16
+
+* Added presets for Sega consoles
+* Major pipeline cleanup
+* New dark mode settings
+* Improved graphics, bezels and reflections for Nintendo consoles
 
 **v 1.0.2** 2026.04.03
 

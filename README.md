@@ -68,7 +68,7 @@ All presets are also available as +1 integer upscales.
 
 The Nintendon't Update reel:
 
-[![20th Century Cathode](https://img.youtube.com/vi/CJUY3IheIKo/0.jpg)]([https://www.youtube.com/watch?v=2HOGcB_a104](https://www.youtube.com/watch?v=CJUY3IheIKo))
+[![20th Century Cathode](https://img.youtube.com/vi/CJUY3IheIKo/0.jpg)](https://www.youtube.com/watch?v=CJUY3IheIKo)
 
 Initial upload reel:
 

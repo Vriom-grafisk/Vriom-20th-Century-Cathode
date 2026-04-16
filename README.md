@@ -149,16 +149,24 @@ The Mark III is based on the RCA FPR505W, while the Master System is a Sansui SV
 
 <br>
 
-#### Sega Genesis/Mega Drive
+#### Sega Genesis/Mega Drive/32X/Sega CD
 
-In an attempt to recreate the infamous "tower of power", I've stacked a modified Panasonic PV-M2023 toploader CRT/VHS combo on top of a CD component player. 
+In an attempt to recreate the infamous "tower of power", I've stacked a modified Panasonic PV-M2023 toploader CRT/VHS combo on top of a CD component player. The preset should automatically adjust for different 32X resolutions.
 
-REAME WILL BE UPDATED LATER TODAY
+<img width="2560" height="1440" alt="Clay Fighter-260416-180440" src="https://github.com/user-attachments/assets/dd0c245a-64f1-4bc1-b536-2642010c930c" />
+
 
 <br>
 
 #### Sega Saturn
 
+Built around a Zenith H1301L prison TV, which was translucent to deter inmates from using it as a contraband stash. The regular Saturn models are largely vector based, as the priority was to make a preset for the "Skeleton" model. Because it's cool, it says so right on the front.
+
+<img width="2560" height="1440" alt="Mega Man 8 (USA)-260416-183050" src="https://github.com/user-attachments/assets/cba1d780-1867-41d1-919e-4e47692ab3d0" />
+
+<img width="2560" height="1440" alt="Bubble Bobble also featuring Rainbow Islands (Europe)-260416-185948" src="https://github.com/user-attachments/assets/c14654e3-69a3-4c4a-852a-4f89cbd4b624" />
+
+<img width="2560" height="1440" alt="Dead or Alive (Japan) (Rev A) (10M)-260416-182222" src="https://github.com/user-attachments/assets/a66c8b03-fb80-41b2-a3bc-a9dcdf5e3bb5" />
 
 
 <br><br>
@@ -177,6 +185,7 @@ Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_
 * Major pipeline cleanup
 * New dark mode settings
 * Improved graphics, bezels and reflections for Nintendo consoles
+* Improved scaling for plus one integer modes
 
 **v 1.0.2** 2026.04.03
 

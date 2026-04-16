@@ -132,9 +132,9 @@ N64 games are notoriously inconsistent when it comes to scaling. The preset snap
 
 #### Sega SG-1000
 
-<img width="2560" height="1440" alt="Rock n&#39; Bolt (JP)-260416-134554" src="https://github.com/user-attachments/assets/2068194c-1eb9-468a-a4a7-333bd0369126" />
-
 I got a bit goofy with this one. The preset is based on Panasonic TR-602S, and the whole design is meant to include some holdovers from 1970s trends. The screen is wildly curved, but then again I don't see people playing these games for extended periods. And hey, these games were compatible with the Mark III as well if you want a less intense experience.
+
+<img width="2560" height="1440" alt="Rock n&#39; Bolt (JP)-260416-134554" src="https://github.com/user-attachments/assets/2068194c-1eb9-468a-a4a7-333bd0369126" />
 
 <br>
 

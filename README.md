@@ -80,13 +80,13 @@ Screenshots may be slightly out of date.
 
 The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mitsubishi mono sets from the same period. The Famicom is a lightly modified Paxon DM-405 color monitor.
 
-<img width="2560" height="1440" alt="Batman - The Video Game (USA)-260403-150839" src="https://github.com/user-attachments/assets/eb531acd-638f-4053-bf14-b3e075d49778" />
+<img width="2560" alt="Batman - The Video Game (USA)-260403-150839" src="https://github.com/user-attachments/assets/eb531acd-638f-4053-bf14-b3e075d49778" />
 
-<img width="2560" height="1440" alt="Shadowgate (USA)-260403-150314" src="https://github.com/user-attachments/assets/702a28ad-344e-4c4b-b0e2-c27e6cf674cd" />
+<img width="2560" alt="Shadowgate (USA)-260403-150314" src="https://github.com/user-attachments/assets/702a28ad-344e-4c4b-b0e2-c27e6cf674cd" />
 
-<img width="2560" height="1440" alt="Super Mario Bros  2 (USA)-260403-145705" src="https://github.com/user-attachments/assets/66febe73-3db7-4bab-8a5e-79945a913f9c" />
+<img width="2560" alt="Super Mario Bros  2 (USA)-260403-145705" src="https://github.com/user-attachments/assets/66febe73-3db7-4bab-8a5e-79945a913f9c" />
 
-<img width="2560" height="1440" alt="Super C (USA)-260403-145938" src="https://github.com/user-attachments/assets/56155afc-71ba-46a2-94b6-f3ea660c29f1" />
+<img width="2560" alt="Super C (USA)-260403-145938" src="https://github.com/user-attachments/assets/56155afc-71ba-46a2-94b6-f3ea660c29f1" />
 
 <br><br>
 
@@ -94,13 +94,13 @@ The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mit
 
 The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflect the overall shape of the SNES, so I went a bit more literal with the button designs to compensate. The Super Famicom is generally inspired by Grundig CRTs from the first half of the 1990s.
 
-<img width="2560" height="1440" alt="Super Castlevania IV (USA)-260403-142358" src="https://github.com/user-attachments/assets/2633eeaf-7828-492a-b266-5e1b31ee7fd4" />
+<img width="2560" alt="Super Castlevania IV (USA)-260403-142358" src="https://github.com/user-attachments/assets/2633eeaf-7828-492a-b266-5e1b31ee7fd4" />
 
-<img width="2560" height="1440" alt="Donkey Kong Country 2 - Diddy&#39;s Kong Quest (USA) (En,Fr) (Rev 1)-260403-144424" src="https://github.com/user-attachments/assets/cc542d7a-15f2-461f-83d7-3ed41476daa4" />
+<img width="2560" alt="Donkey Kong Country 2 - Diddy&#39;s Kong Quest (USA) (En,Fr) (Rev 1)-260403-144424" src="https://github.com/user-attachments/assets/cc542d7a-15f2-461f-83d7-3ed41476daa4" />
 
-<img width="2560" height="1440" alt="Super Mario World (USA)-260403-144235" src="https://github.com/user-attachments/assets/48f7c1dc-ce1d-4497-b08d-09a74d69c7ee" />
+<img width="2560" alt="Super Mario World (USA)-260403-144235" src="https://github.com/user-attachments/assets/48f7c1dc-ce1d-4497-b08d-09a74d69c7ee" />
 
-<img width="2560" height="1440" alt="Rockman   Forte (Japan)-260403-143536" src="https://github.com/user-attachments/assets/cf4b1279-27e4-4c63-b304-6130540280cf" />
+<img width="2560" alt="Rockman   Forte (Japan)-260403-143536" src="https://github.com/user-attachments/assets/cf4b1279-27e4-4c63-b304-6130540280cf" />
 
 <br><br>
 
@@ -108,11 +108,11 @@ The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflec
 
 A heavily modified LG Netee from 1999. The presets are based on the translucent Funtastic consoles, and the fullscreen glow has been configured to light up the plastic as you play.
 
-<img width="2560" height="1440" alt="Diddy Kong Racing (U) (M2) (V1 1)  ! -260403-151309" src="https://github.com/user-attachments/assets/d310cb39-3f78-406a-9153-f6ae47079cbc" />
+<img width="2560" alt="Diddy Kong Racing (U) (M2) (V1 1)  ! -260403-151309" src="https://github.com/user-attachments/assets/d310cb39-3f78-406a-9153-f6ae47079cbc" />
 
-<img width="2560" height="1440" alt="Kirby 64 - The Crystal Shards (U)  ! -260403-152307" src="https://github.com/user-attachments/assets/aabe4cd4-fe02-4433-959b-cbf5f061ee2a" />
+<img width="2560" alt="Kirby 64 - The Crystal Shards (U)  ! -260403-152307" src="https://github.com/user-attachments/assets/aabe4cd4-fe02-4433-959b-cbf5f061ee2a" />
 
-<img width="2560" height="1440" alt="F-ZERO X (U)  ! -260403-152608" src="https://github.com/user-attachments/assets/fe21fafa-1e96-4999-bfa3-a91ae883de0c" />
+<img width="2560" alt="F-ZERO X (U)  ! -260403-152608" src="https://github.com/user-attachments/assets/fe21fafa-1e96-4999-bfa3-a91ae883de0c" />
 
 <br>
 
@@ -134,7 +134,7 @@ N64 games are notoriously inconsistent when it comes to scaling. The preset snap
 
 I got a bit goofy with this one. The preset is based on Panasonic TR-602S, and the whole design is meant to include some holdovers from 1970s trends. The screen is wildly curved, but then again I don't see people playing these games for extended periods. And hey, these games were compatible with the Mark III as well if you want a less intense experience.
 
-<img width="2560" height="1440" alt="Rock n&#39; Bolt (JP)-260416-134554" src="https://github.com/user-attachments/assets/2068194c-1eb9-468a-a4a7-333bd0369126" />
+<img width="2560" alt="Rock n&#39; Bolt (JP)-260416-134554" src="https://github.com/user-attachments/assets/2068194c-1eb9-468a-a4a7-333bd0369126" />
 
 <br>
 
@@ -142,10 +142,10 @@ I got a bit goofy with this one. The preset is based on Panasonic TR-602S, and t
 
 The Mark III is based on the RCA FPR505W, while the Master System is a Sansui SV-M25 (almost completely redrawn in vector, but holy smokes, check out the original, it was basically made for the Master System).
 
-<img width="2560" height="1440" alt="Sega Flipper (JP)-260416-140814" src="https://github.com/user-attachments/assets/80f45e7b-344b-4a5b-ab33-374d0cf53c9b" />
+<img width="2560" alt="Sega Flipper (JP)-260416-140814" src="https://github.com/user-attachments/assets/80f45e7b-344b-4a5b-ab33-374d0cf53c9b" />
 
 
-<img width="2560" height="1440" alt="Alex Kidd in Miracle World (USA, Europe)-260416-140954" src="https://github.com/user-attachments/assets/6639953b-0dc3-494e-94f9-4b0ae5569ee0" />
+<img width="2560" alt="Alex Kidd in Miracle World (USA, Europe)-260416-140954" src="https://github.com/user-attachments/assets/6639953b-0dc3-494e-94f9-4b0ae5569ee0" />
 
 <br>
 
@@ -153,7 +153,7 @@ The Mark III is based on the RCA FPR505W, while the Master System is a Sansui SV
 
 In an attempt to recreate the infamous "tower of power", I've stacked a modified Panasonic PV-M2023 toploader CRT/VHS combo on top of a CD component player. The preset should automatically adjust for different 32X resolutions.
 
-<img width="2560" height="1440" alt="Clay Fighter-260416-180440" src="https://github.com/user-attachments/assets/dd0c245a-64f1-4bc1-b536-2642010c930c" />
+<img width="2560" alt="Clay Fighter-260416-180440" src="https://github.com/user-attachments/assets/dd0c245a-64f1-4bc1-b536-2642010c930c" />
 
 
 <br>
@@ -162,11 +162,11 @@ In an attempt to recreate the infamous "tower of power", I've stacked a modified
 
 Built around a Zenith H1301L prison TV, which was translucent to deter inmates from using it as a contraband stash. The regular Saturn models are largely vector based, as the priority was to make a preset for the "Skeleton" model. Because it's cool, it says so right on the front.
 
-<img width="2560" height="1440" alt="Mega Man 8 (USA)-260416-183050" src="https://github.com/user-attachments/assets/cba1d780-1867-41d1-919e-4e47692ab3d0" />
+<img width="2560" alt="Mega Man 8 (USA)-260416-183050" src="https://github.com/user-attachments/assets/cba1d780-1867-41d1-919e-4e47692ab3d0" />
 
-<img width="2560" height="1440" alt="Bubble Bobble also featuring Rainbow Islands (Europe)-260416-185948" src="https://github.com/user-attachments/assets/c14654e3-69a3-4c4a-852a-4f89cbd4b624" />
+<img width="2560" alt="Bubble Bobble also featuring Rainbow Islands (Europe)-260416-185948" src="https://github.com/user-attachments/assets/c14654e3-69a3-4c4a-852a-4f89cbd4b624" />
 
-<img width="2560" height="1440" alt="Dead or Alive (Japan) (Rev A) (10M)-260416-182222" src="https://github.com/user-attachments/assets/a66c8b03-fb80-41b2-a3bc-a9dcdf5e3bb5" />
+<img width="2560" alt="Dead or Alive (Japan) (Rev A) (10M)-260416-182222" src="https://github.com/user-attachments/assets/a66c8b03-fb80-41b2-a3bc-a9dcdf5e3bb5" />
 
 
 <br><br>

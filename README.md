@@ -118,9 +118,9 @@ A heavily modified LG Netee from 1999. The presets are based on the translucent 
 
 The color is applied by the decal layer, which contains a PNG with a 0° hue value (pure red). If you want to use a value not available in the presets, you can offset this value to pick any hue you’d like.
 
-<img width="12165" height="5214" alt="nintendo_n64_decal" src="https://github.com/user-attachments/assets/4cd4d8d9-0bf5-4eaa-ba12-2a2c3115e9d3" />
+<img width="12165" alt="nintendo_n64_decal" src="https://github.com/user-attachments/assets/4cd4d8d9-0bf5-4eaa-ba12-2a2c3115e9d3" />
 
-<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/5964c78d-4b5b-4c4a-bc92-014e4984c9d1" />
+<img width="2559" alt="image" src="https://github.com/user-attachments/assets/5964c78d-4b5b-4c4a-bc92-014e4984c9d1" />
 
 <br>
 

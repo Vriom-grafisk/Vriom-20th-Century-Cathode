@@ -179,6 +179,10 @@ Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_
 
 ### Changelog
 
+**v 2.0.1** 2026.05.22
+
+* Changed some system root based file paths to relative paths, as that seemed to cause issues on Linux
+
 **v 2.0.0** 2026.04.16
 
 * Added presets for Sega consoles

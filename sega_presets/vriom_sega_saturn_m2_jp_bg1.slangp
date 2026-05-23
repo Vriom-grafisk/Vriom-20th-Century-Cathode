@@ -1,0 +1,10 @@
+#reference "../0_base/sega_saturn_base.slangp"
+
+HSM_BZL_INNER_EDGE_THICKNESS = "0.000000"
+
+HSM_REFLECT_GLOBAL_AMOUNT = "40.000000"
+HSM_REFLECT_CORNER_FADE = "8.000000"
+HSM_REFLECT_CORNER_FADE_DISTANCE = "8.000000"
+
+BackgroundImage = "../0_graphics/sega_saturn_m2_jp_bg1.png"
+DeviceLEDImage = "../0_graphics/sega_saturn_m2_led.png"

@@ -1,0 +1,2 @@
+#reference "../0_base/nec_pc-engine_base.slangp"
+BackgroundImage = "../0_graphics/nec_pc-engine-core-grafx_bg2.png"

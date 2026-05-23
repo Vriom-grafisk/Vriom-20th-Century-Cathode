@@ -1,0 +1,4 @@
+#reference "../0_base/sega_mark-iii_base.slangp"
+
+
+BackgroundImage = "../0_graphics/sega_mark-iii_bg2.png"

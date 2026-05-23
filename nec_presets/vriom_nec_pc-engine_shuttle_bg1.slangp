@@ -1,0 +1,7 @@
+#reference "../0_base/nec_pc-engine_base.slangp"
+HSM_BZL_WIDTH = "111.000000"
+HSM_REFLECT_GLOBAL_GAMMA_ADJUST = "2.099999"
+HSM_REFLECT_RADIAL_FADE_WIDTH = "21.000000"
+HSM_REFLECT_RADIAL_FADE_HEIGHT = "26.000000"
+HSM_BG_POS_Y = "-5.350003"
+BackgroundImage = "../0_graphics/nec_pc-engine_shuttle_bg1.png"

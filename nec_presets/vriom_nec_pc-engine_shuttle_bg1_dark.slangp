@@ -1,0 +1,4 @@
+#reference "vriom_nec_pc-engine_shuttle_bg1.slangp"
+#reference "../0_base/dark_mode.slangp"
+HSM_LED_SOURCE_MATTE_TYPE = "2.000000"
+LEDImage = "../0_graphics/nec_pc-engine_shuttle_stars.png"

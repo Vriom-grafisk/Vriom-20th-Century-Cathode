@@ -1,0 +1,2 @@
+#reference "../0_base/nec_supergrafx_base.slangp"
+BackgroundImage = "../0_graphics/nec_supergrafx_bg1.png"

@@ -1,0 +1,2 @@
+#reference "../0_base/sega_sg-1000_base.slangp"
+BackgroundImage = "../0_graphics/sega_sg-1000_bg1.png"

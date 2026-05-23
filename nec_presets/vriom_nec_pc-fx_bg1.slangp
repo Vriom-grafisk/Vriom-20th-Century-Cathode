@@ -1,0 +1,2 @@
+#reference "../0_base/nec_pc-fx_base.slangp"
+BackgroundImage = "../0_graphics/nec_pc-fx_bg1.png"

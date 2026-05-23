@@ -1,0 +1,2 @@
+#reference "../0_base/nec_turbografx_base.slangp"
+BackgroundImage = "../0_graphics/nec_turbografx-16_bg1.png"

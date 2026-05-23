@@ -1,0 +1,3 @@
+#reference "../0_base/sega_sms_base.slangp"
+
+BackgroundImage = "../0_graphics/sega_sms_bg1.png"

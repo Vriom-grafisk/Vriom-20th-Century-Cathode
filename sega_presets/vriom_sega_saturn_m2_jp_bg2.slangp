@@ -1,0 +1,3 @@
+#reference "../0_base/sega_saturn_base.slangp"
+BackgroundImage = "../0_graphics/sega_saturn_m2_jp_bg2.png"
+DeviceLEDImage = "../0_graphics/sega_saturn_m2_led.png"

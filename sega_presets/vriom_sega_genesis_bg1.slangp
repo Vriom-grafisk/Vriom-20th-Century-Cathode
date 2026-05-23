@@ -1,0 +1,4 @@
+#reference "../0_base/sega_genesis_base.slangp"
+HSM_FXAA_ON = "1.000000"
+g_SMS_bl = "0.000000"
+BackgroundImage = "../0_graphics/sega_genesis_bg1.png"

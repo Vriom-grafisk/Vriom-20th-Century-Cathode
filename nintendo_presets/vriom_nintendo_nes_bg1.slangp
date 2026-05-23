@@ -1,0 +1,4 @@
+#reference "../0_base/nintendo_nes_base.slangp"
+
+BackgroundImage = "../0_graphics/nintendo_nes_bg1.png"
+

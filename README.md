@@ -124,8 +124,7 @@ The SuperGrafx console looks like a guitar pedal from a 1980s cyberpunk movie, s
 
 This one was also a bit tricky, since the console looks like a tiny computer cabinet. I figured it was time to use an actual NEC screen, so this is technically based on the Multisync A700+, though little remains beyond the texture. A pretty sober look for the thirstiest console ever released.
 
-<img width="2560" alt="Chip-chan Kick! (Japan)-260523-235300" src="https://github.com/user-attachments/assets/e036b19f-73b2-4db5-bd7c-49668c0387cb" />
-
+<img width="2560" height="1440" alt="Chip-chan Kick! (Japan)-260523-235537" src="https://github.com/user-attachments/assets/e6616fa1-e9d0-4900-ae97-8905cdc7cccb" />
 
 #### Nintendo NES/Famicom
 

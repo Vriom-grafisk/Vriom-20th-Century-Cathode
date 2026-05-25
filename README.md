@@ -223,7 +223,11 @@ Built around a Zenith H1301L prison TV, which was translucent to deter inmates f
 
 ### Installation
 
-Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_Packs). 
+Place the main folder in the regular Mega Bezel directory (shaders\Mega\_Bezel\_Packs). If placed correctly, an example path would be
+
+> RetroArch\shaders\Mega_Bezel_Packs\Vriom_20th_Century_Cathode\nintendo_presets\vriom_nintendo_famicom_bg1.slangp
+
+This assumes that you've already got Mega Bezel up and running, with the correct video settings. If you haven't, the readme over at the [Mega Bezel repo](https://github.com/HyperspaceMadness/Mega_Bezel) covers this process.
 
 <br>
 

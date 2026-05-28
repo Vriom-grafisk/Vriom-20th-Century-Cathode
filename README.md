@@ -33,8 +33,7 @@ I’m also grateful for feedback on the scripts. I’m not a coder or scripter b
 #### Current shortlist for fixes and additions:
 
 * Include more system families
-* Test or simulate tests for 4K and ultrawide displays
-* Clean up and future proof slangp pipelines
+* Learn more about tube behavior and modify presets to more accurately simulate era appropriate visuals
 
 <br>
 
@@ -92,7 +91,7 @@ Screenshots may be slightly out of date.
 
 #### NEC PC Engine/PC Engine Core Grafx/PC Engine Core Grafx II
 
-PC engine is a teeny tiny rounded square, so Sony Trinitron KV9PT50 was a pretty good fit. Not much is left of the original reference image, but the overall shape is there. The later Core Grafx/Core Grafx II share the same form factor, so they're basically reskins.
+PC Engine is a teeny tiny rounded square, so Sony Trinitron KV9PT50 was a pretty good fit. Not much is left of the original reference image, but the overall shape is there. The later Core Grafx/Core Grafx II share the same form factor, so they're basically reskins.
 
 <img width="2560" alt="Bonk&#39;s Adventure (USA)-260523-232420" src="https://github.com/user-attachments/assets/19ac8936-ffb8-405a-87a2-47d0c2734e9d" />
 

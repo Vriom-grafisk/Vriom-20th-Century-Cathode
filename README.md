@@ -101,7 +101,7 @@ PC Engine is a teeny tiny rounded square, so Sony Trinitron KV9PT50 was a pretty
 
 #### NEC PC Engine Shuttle
 
-The Shuttle is derived from the PC engine preset, but at this point nothing really remains of the original reference. A kitbashed monstrocity that's more console than TV. The dark mode of the main background features glow-in-the-dark wall stickers.
+The Shuttle is derived from the PC engine preset, but at this point nothing really remains of the original reference. A kitbashed monstrosity that's more console than TV. The dark mode of the main background features glow-in-the-dark wall stickers.
 
 <img width="2560" alt="Magical Chase (USA)-260523-233339" src="https://github.com/user-attachments/assets/e5348a52-1786-459d-9bd2-ac7112cd736f" />
 

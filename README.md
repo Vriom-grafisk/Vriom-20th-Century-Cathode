@@ -41,6 +41,13 @@ I’m also grateful for feedback on the scripts. I’m not a coder or scripter b
 
 Generally, all presets contain two backgrounds – one barebones and one more elaborate – and dark versions of each of these. There are exceptions.
 
+#### Atari
+
+* 2600 (2 backgrounds, 1 "Vader" variant + dark modes)
+* 5200 (2 backgrounds + dark modes)
+* 7800 (2 backgrounds + dark modes)
+* Jaguar (2 backgrounds, 1 "Imagin HotRod" variant + dark modes)
+
 #### NEC
 
 * PC Engine (2 backgrounds + dark modes)
@@ -75,19 +82,52 @@ All presets are also available as +1 integer upscales.
 
 #### Videos
 
-V3: What Shmup reel
+V1: Nintendo
+
+[![20th Century Cathode V1: Nintendo](https://img.youtube.com/vi/2HOGcB_a104/0.jpg)](https://www.youtube.com/watch?v=2HOGcB_a104)
+
+V2: Nintendon't
+
+[![20th Century Cathode V2: Nintendon't](https://img.youtube.com/vi/CJUY3IheIKo/0.jpg)](https://www.youtube.com/watch?v=CJUY3IheIKo)
+
+V3: What Shmup
 
 [![20th Century Cathode V3: What Shmup](https://img.youtube.com/vi/GxfXuDwSASs/0.jpg)](https://www.youtube.com/watch?v=GxfXuDwSASs)
 
-V2: The Nintendon't Update reel:
+V4: Crash Override
 
-[![20th Century Cathode: The Nintendon't Update](https://img.youtube.com/vi/CJUY3IheIKo/0.jpg)](https://www.youtube.com/watch?v=CJUY3IheIKo)
+[![20th Century Cathode V4: Crash Override](https://img.youtube.com/vi/aIgfn4-tqJ8/0.jpg)](https://www.youtube.com/watch?v=aIgfn4-tqJ8)
 
-Initial upload reel:
-
-[![20th Century Cathode](https://img.youtube.com/vi/2HOGcB_a104/0.jpg)](https://www.youtube.com/watch?v=2HOGcB_a104)
 
 Screenshots may be slightly out of date.
+
+#### Atari 2600
+
+I chose to stick to US CRT models for Atari. The 2600 is based on the RCA XL-100 from 1976, but most of the faux woodgrain has been replaced with plastic panels. The image is pretty rough, to reflect the 2600's 1977 release date. The black version, commonly known as the "Vader", is all plastic and features some extra light sources in the dark mode preset.
+
+<img width="2560" alt="Pac-Man (NA)-260614-003558" src="https://github.com/user-attachments/assets/7b91d3c4-0dd5-4ec8-9ce0-01c7a125e49f" />
+
+<img width="2560" alt="Star Wars - Return of the Jedi - Death Star Battle (NA)-260614-003909" src="https://github.com/user-attachments/assets/7e6ac2bc-0883-47db-a210-0a5d06cdf001" />
+
+#### Atari 5200
+
+I try to stick to smaller CRTs in this collection, but there's no disguising the size of the RCA ColorTrak CTC-81 (1977). I don't feel bad about it, since the 5200 itself was ludicrously huge. Feels about right. The orignial TV was entirely covered in faux woodgrain, all of which has been replaced with vector based plastic surfaces.
+
+<img width="2560" alt="Frogger (1983) (Parker Bros)-260614-003832" src="https://github.com/user-attachments/assets/bc7a7682-e09f-4d87-b482-dff0dfb54ff3" />
+
+#### Atari 7800
+
+This one was a bit rough, since there were few mid-1980s CRTs that shared the 7800's design sensibilities. Technically this is a General Electric 8-2060 from 1986, but really only some bezel textures remain from the reference images.
+
+<img width="2560" alt="Donkey Kong (USA)-260614-004007" src="https://github.com/user-attachments/assets/197ba65b-3095-49ac-acce-6cfa822763a0" />
+
+#### Atari Jaguar
+
+A heavily modified GE 13GP341 (roughly 2000), which was released a bit late to be relevant for the Jaguar. It's had a lot of its Y2K-ness scrubbed off though, and mid-1990s design trends have been introduced. After Atari exited the console market, the chassis injection molds ended up with Imagin, who used them to make cases for dental cameras. I couldn't resist making a variant background based on this story.
+
+<img width="2560" alt="Pitfall - The Mayan Adventure (NA)-260613-212159" src="https://github.com/user-attachments/assets/54c6af74-2184-4c51-b6f8-1e5001a5003c" />
+
+<img width="2560" alt="Zool 2 (NA)-260614-004132" src="https://github.com/user-attachments/assets/c8464de5-2b39-4727-b3bd-9119b66a13f7" />
 
 #### NEC PC Engine/PC Engine Core Grafx/PC Engine Core Grafx II
 
@@ -231,6 +271,10 @@ This assumes that you've already got Mega Bezel up and running, with the correct
 <br>
 
 ### Changelog
+
+**v 3.0.0** 2026.06.13
+
+* Added presets for Atari consoles
 
 **v 3.0.0** 2026.05.23
 

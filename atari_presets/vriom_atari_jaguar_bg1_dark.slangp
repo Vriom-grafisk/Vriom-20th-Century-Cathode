@@ -1,0 +1,6 @@
+#reference "vriom_atari_jaguar_bg1.slangp"
+#reference "../0_base/dark_mode.slangp"
+
+HSM_LED_SOURCE_MATTE_TYPE = "1.000000"
+
+LEDImage = "../0_graphics/atari_jaguar_led.png"

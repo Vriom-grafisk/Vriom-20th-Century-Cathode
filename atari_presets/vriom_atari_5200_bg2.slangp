@@ -1,0 +1,2 @@
+#reference "../0_base/atari_5200_base.slangp"
+BackgroundImage = "../0_graphics/atari_5200_bg2.png"

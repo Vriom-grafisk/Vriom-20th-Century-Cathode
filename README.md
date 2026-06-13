@@ -107,7 +107,8 @@ I chose to stick to US CRT models for Atari. The 2600 is based on the RCA XL-100
 
 <img width="2560" alt="Pac-Man (NA)-260614-003558" src="https://github.com/user-attachments/assets/7b91d3c4-0dd5-4ec8-9ce0-01c7a125e49f" />
 
-<img width="2560" alt="Star Wars - Return of the Jedi - Death Star Battle (NA)-260614-003909" src="https://github.com/user-attachments/assets/7e6ac2bc-0883-47db-a210-0a5d06cdf001" />
+<img width="2560" alt="Star Wars - Return of the Jedi - Death Star Battle (NA)-260614-004713" src="https://github.com/user-attachments/assets/e2139497-f6c0-4b71-98eb-e610371f7780" />
+
 
 #### Atari 5200
 

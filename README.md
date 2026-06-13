@@ -33,14 +33,23 @@ I’m also grateful for feedback on the scripts. I’m not a coder or scripter b
 #### Current shortlist for fixes and additions:
 
 * Include more system families
-* Test or simulate tests for 4K and ultrawide displays
-* Clean up and future proof slangp pipelines
+* Learn more about tube behavior and modify presets to more accurately simulate era appropriate visuals
 
 <br>
 
 ### Current Presets
 
 Generally, all presets contain two backgrounds – one barebones and one more elaborate – and dark versions of each of these. There are exceptions.
+
+#### NEC
+
+* PC Engine (2 backgrounds + dark modes)
+* PC Engine Core Grafx (2 backgrounds + dark modes)
+* PC Engine Core Grafx II (2 backgrounds + dark modes)
+* PC Engine Shuttle (2 backgrounds + dark modes)
+* TurboGrafx-16 (2 backgrounds + dark modes)
+* SuperGrafx (2 backgrounds + dark modes)
+* PC-FX (2 backgrounds + dark modes)
 
 #### Nintendo
 
@@ -66,15 +75,55 @@ All presets are also available as +1 integer upscales.
 
 #### Videos
 
-The Nintendon't Update reel:
+V3: What Shmup reel
 
-[![20th Century Cathode](https://img.youtube.com/vi/CJUY3IheIKo/0.jpg)](https://www.youtube.com/watch?v=CJUY3IheIKo)
+[![20th Century Cathode V3: What Shmup](https://img.youtube.com/vi/GxfXuDwSASs/0.jpg)](https://www.youtube.com/watch?v=GxfXuDwSASs)
+
+V2: The Nintendon't Update reel:
+
+[![20th Century Cathode: The Nintendon't Update](https://img.youtube.com/vi/CJUY3IheIKo/0.jpg)](https://www.youtube.com/watch?v=CJUY3IheIKo)
 
 Initial upload reel:
 
 [![20th Century Cathode](https://img.youtube.com/vi/2HOGcB_a104/0.jpg)](https://www.youtube.com/watch?v=2HOGcB_a104)
 
 Screenshots may be slightly out of date.
+
+#### NEC PC Engine/PC Engine Core Grafx/PC Engine Core Grafx II
+
+PC Engine is a teeny tiny rounded square, so Sony Trinitron KV9PT50 was a pretty good fit. Not much is left of the original reference image, but the overall shape is there. The later Core Grafx/Core Grafx II share the same form factor, so they're basically reskins.
+
+<img width="2560" alt="Bonk&#39;s Adventure (USA)-260523-232420" src="https://github.com/user-attachments/assets/19ac8936-ffb8-405a-87a2-47d0c2734e9d" />
+
+<img width="2560" alt="Fantasy Zone (USA)-260523-232804" src="https://github.com/user-attachments/assets/6be11387-92be-4e40-8fcb-1cd307d99ef9" />
+
+<img width="2560" alt="Air Zonk (USA)-260523-232624" src="https://github.com/user-attachments/assets/9701112d-fe3a-4af4-81e5-5e1be99f6e4d" />
+
+#### NEC PC Engine Shuttle
+
+The Shuttle is derived from the PC engine preset, but at this point nothing really remains of the original reference. A kitbashed monstrosity that's more console than TV. The dark mode of the main background features glow-in-the-dark wall stickers.
+
+<img width="2560" alt="Magical Chase (USA)-260523-233339" src="https://github.com/user-attachments/assets/e5348a52-1786-459d-9bd2-ac7112cd736f" />
+
+<img width="2560" alt="Blazing Lazers (USA)-260523-233547" src="https://github.com/user-attachments/assets/acfe57c9-2457-44bc-a26d-b417afa969f4" />
+
+#### NEC TurboGrafx-16
+
+The TurboGrafx-16 preset is a modified Sony Trinitron KV-32S42, but with a lot more attitude. Loud and clashing colors were back on the menu with the US adaptation of the PC Engine. 
+
+<img width="2560" alt="Fighting Street (USA)-260523-233923" src="https://github.com/user-attachments/assets/bf6eb57f-1a93-4aa3-8ff1-7adbab9752c5" />
+
+#### NEC SuperGrafx
+
+The SuperGrafx console looks like a guitar pedal from a 1980s cyberpunk movie, so this one was tough. I figured the Magnavox PS1980 B121 was a good fit, but because of low quality reference images and all the weird ornamental detailing on the console, everything had to be redrawn as vectors. It was way too much work for a console with six games in its library, but here we are.
+
+<img width="2560" alt="Aldynes - The Misson Code for Rage Crisis (Japan)-260523-234735" src="https://github.com/user-attachments/assets/dc8853e5-be6a-4337-96b6-7a965c2df5b9" />
+
+#### NEC PC-FX
+
+This one was also a bit tricky, since the console looks like a tiny computer cabinet. I figured it was time to use an actual NEC screen, so this is technically based on the Multisync A700+, though little remains beyond the texture. A pretty sober look for the thirstiest console ever released.
+
+<img width="2560" height="1440" alt="Chip-chan Kick! (Japan)-260523-235537" src="https://github.com/user-attachments/assets/e6616fa1-e9d0-4900-ae97-8905cdc7cccb" />
 
 #### Nintendo NES/Famicom
 
@@ -173,12 +222,21 @@ Built around a Zenith H1301L prison TV, which was translucent to deter inmates f
 
 ### Installation
 
-Place the main folder in the regular Mega Bezel directory (shaders/Mega\_Bezel\_Packs). 
+Place the main folder in the regular Mega Bezel directory (shaders\Mega\_Bezel\_Packs). If placed correctly, an example path would be
+
+> RetroArch\shaders\Mega_Bezel_Packs\Vriom_20th_Century_Cathode\nintendo_presets\vriom_nintendo_famicom_bg1.slangp
+
+This assumes that you've already got Mega Bezel up and running, with the correct video settings. If you haven't, the readme over at the [Mega Bezel repo](https://github.com/HyperspaceMadness/Mega_Bezel) covers this process.
 
 <br>
 
 ### Changelog
 
+**v 3.0.0** 2026.05.23
+
+* Added presets for NEC consoles
+* New folder structure: Presets are now in subfolders divided by company
+  
 **v 2.0.1** 2026.05.22
 
 * Changed some system root based file paths to relative paths, as that seemed to cause issues on Linux

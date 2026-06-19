@@ -38,7 +38,7 @@ I’ve been exploring old game libraries with my youngest daughter, and together
 
 ### Brief
 
-Vriom 20th Century Cathode is a collection of skeuomorphic Mega Bezel presets for pre-millennial consoles. They aim to simulate the feel of playing games on era appropriate 13-19 inch CRTs and provide more immersive retro gaming experiences.
+Vriom 20th Century Cathode is a collection of skeuomorphic Mega Bezel presets for pre-millennial consoles. They aim to simulate the feel of playing games on era-appropriate 13–19 inch CRTs and provide more immersive retro gaming experiences.
 
 <br>
 
@@ -48,7 +48,7 @@ In a sense, the goal is similar to that of Soqueroeu’s presets, but messier. T
 
 The procedure: I scour the internet for CRTs from the appropriate time frame that share design sensibilities with the console in question. I then Frankenstein together a base for each preset and add colors, shapes and elements from the relevant consoles to reinforce the connection to the game platform. Photographic elements are used when possible, with vector based augmentations where needed. I then create a preset where the composite TV I’ve put together dictates the shape and curvature of the screen. Finally, I dial in the CRT settings to conform to my own memories of what these games should look like.
 
-The goal is not to accurately reproduce every subpixel in a way that’s only possible on UHD HDR TVs. The goal is also not to present each system using the exact same parameters or form factors. This is a feelings-first approach with a few random variables affecting the experience, like in real life. Still, all scaling is integer based and I do try to get the math right whenever math is needed
+The goal is not to accurately reproduce every sub-pixel in a way that’s only possible on UHD HDR TVs. The goal is also not to present each system using the exact same parameters or form factors. This is a feelings-first approach with a few random variables affecting the experience, like in real life. Still, all scaling is integer based and I do try to get the math right whenever math is needed
 
 Post-millennial systems are outside the project’s scope. CRTs survived well into the 2000s, but gen 6 generally didn’t have to work within the CRT limitations the way older, more sprite based systems did. If I do decide to include the 1998 Sega Dreamcast despite it being a gen 6 console, it’ll be included with presets for other CD-based systems.
 
@@ -58,7 +58,7 @@ Post-millennial systems are outside the project’s scope. CRTs survived well in
 
 We were a Nintendo home, but I have distinct memories of playing Atari, Sega or Commodore games at other people’s houses, again often on secondary TV sets. The idea is to expand the collection to include more system families. I’ll update the list as I go. Input from people who grew up with non-Nintendo sets is very welcome.
 
-I’m also grateful for feedback on the scripts. I’m not a coder or scripter beyond markup/CSS, so I’m just yanking wires until I understand what’s going on. I’m sure the slangps are atrocious, so feel free to let me know how I’ve screwed up. I understand the idea of a cascading pipeline, but what I’m doing is not optimalized in any way.
+I’m also grateful for feedback on the scripts. I’m not a coder or scripter beyond markup/CSS, so I’m just yanking wires until I understand what’s going on. I’m sure the slangps are atrocious, so feel free to let me know how I’ve screwed up. I understand the idea of a cascading pipeline, but what I’m doing is not optimized in any way.
 
 #### Current shortlist for fixes and additions:
 
@@ -142,7 +142,7 @@ I chose to stick to US CRT models for Atari. The 2600 is based on the RCA XL-100
 
 #### Atari 5200
 
-I try to stick to smaller CRTs in this collection, but there's no disguising the size of the RCA ColorTrak CTC-81 (1977). I don't feel bad about it, since the 5200 itself was ludicrously huge. Feels about right. The orignial TV was entirely covered in faux woodgrain, all of which has been replaced with vector based plastic surfaces.
+I try to stick to smaller CRTs in this collection, but there's no disguising the size of the RCA ColorTrak CTC-81 (1977). I don't feel bad about it, since the 5200 itself was ludicrously huge. Feels about right. The original TV was entirely covered in faux woodgrain, all of which has been replaced with vector based plastic surfaces.
 
 <img width="2560" alt="Frogger (1983) (Parker Bros)-260614-003832" src="https://github.com/user-attachments/assets/bc7a7682-e09f-4d87-b482-dff0dfb54ff3" />
 

@@ -6,6 +6,36 @@ I’ve been exploring old game libraries with my youngest daughter, and together
 
 <br>
 
+## Table of Contents
+
+- [Brief](#brief)
+- [Philosophy](#philosophy)
+- [Future Plans/Improvements](#future-plansimprovements)
+- [Presets List](#presets-list)
+- [Videos/Screenshots/Technical Rundown](#videosscreenshotstechnical-rundown)
+  - [Videos](#videos)
+  - [Atari 2600](#atari-2600)
+  - [Atari 5200](#atari-5200)
+  - [Atari 7800](#atari-7800)
+  - [Atari Jaguar](#atari-jaguar)
+  - [NEC PC Engine/PC Engine Core Grafx/PC Engine Core Grafx II](#nec-pc-enginepc-engine-core-grafxpc-engine-core-grafx-ii)
+  - [NEC PC Engine Shuttle](#nec-pc-engine-shuttle)
+  - [NEC TurboGrafx-16](#nec-turbografx-16)
+  - [NEC SuperGrafx](#nec-supergrafx)
+  - [NEC PC-FX](#nec-pc-fx)
+  - [Nintendo NES/Famicom](#nintendo-nesfamicom)
+  - [Nintendo SNES/Super Famicom](#nintendo-snessuper-famicom)
+  - [Nintendo 64](#nintendo-64)
+  - [Sega SG-1000](#sega-sg-1000)
+  - [Sega Mark III/Master System](#sega-mark-iiimaster-system)
+  - [Sega Genesis/Mega Drive/32X/Sega CD](#sega-genesismega-drive32xsega-cd)
+  - [Sega Saturn](#sega-saturn)
+- [Easter Eggs](#easter-eggs)
+- [Installation](#installation)
+- [Changelog](#changelog)
+
+<br>
+
 ### Brief
 
 Vriom 20th Century Cathode is a collection of skeuomorphic Mega Bezel presets for pre-millennial consoles. They aim to simulate the feel of playing games on era appropriate 13-19 inch CRTs and provide more immersive retro gaming experiences.
@@ -37,7 +67,7 @@ I’m also grateful for feedback on the scripts. I’m not a coder or scripter b
 
 <br>
 
-### Current Presets
+### Presets List
 
 Generally, all presets contain two backgrounds – one barebones and one more elaborate – and dark versions of each of these. There are exceptions.
 
@@ -164,7 +194,7 @@ The SuperGrafx console looks like a guitar pedal from a 1980s cyberpunk movie, s
 
 This one was also a bit tricky, since the console looks like a tiny computer cabinet. I figured it was time to use an actual NEC screen, so this is technically based on the Multisync A700+, though little remains beyond the texture. A pretty sober look for the thirstiest console ever released.
 
-<img width="2560" height="1440" alt="Chip-chan Kick! (Japan)-260523-235537" src="https://github.com/user-attachments/assets/e6616fa1-e9d0-4900-ae97-8905cdc7cccb" />
+<img width="2560" alt="Chip-chan Kick! (Japan)-260523-235537" src="https://github.com/user-attachments/assets/e6616fa1-e9d0-4900-ae97-8905cdc7cccb" />
 
 #### Nintendo NES/Famicom
 
@@ -180,7 +210,7 @@ The NES presets are based on Philips 14CT2006 from the mid-1980s and general Mit
 
 <br><br>
 
-#### Nintendo SNES/SFC
+#### Nintendo SNES/Super Famicom
 
 The US SNES is based on the Toshiba CF13E23. It’s hard to find TVs that reflect the overall shape of the SNES, so I went a bit more literal with the button designs to compensate. The Super Famicom is generally inspired by Grundig CRTs from the first half of the 1990s.
 
@@ -258,6 +288,13 @@ Built around a Zenith H1301L prison TV, which was translucent to deter inmates f
 
 <img width="2560" alt="Dead or Alive (Japan) (Rev A) (10M)-260416-182222" src="https://github.com/user-attachments/assets/a66c8b03-fb80-41b2-a3bc-a9dcdf5e3bb5" />
 
+<br><br>
+
+### Easter Eggs
+
+All main backgrounds (bg1) contain references or visual puns. Most are are pretty blatant and obvious, while some backgrounds include some very sneaky easter eggs. Are you able to find them?
+
+<img width="25600" alt="image" src="https://github.com/user-attachments/assets/5252aab0-f46d-46bc-b761-16abc0427fa9" />
 
 <br><br>
 
@@ -272,6 +309,10 @@ This assumes that you've already got Mega Bezel up and running, with the correct
 <br>
 
 ### Changelog
+
+**v 3.0.0** 2026.06.19
+
+* Removed vertical background tiling
 
 **v 3.0.0** 2026.06.13
 

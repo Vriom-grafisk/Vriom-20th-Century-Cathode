@@ -292,7 +292,7 @@ Built around a Zenith H1301L prison TV, which was translucent to deter inmates f
 
 ### Easter Eggs
 
-All main backgrounds (bg1) contain references or visual puns. Most are are pretty blatant and obvious, while some backgrounds include some very sneaky easter eggs. Are you able to find them?
+Most main backgrounds (bg1) contain references or visual puns. Most are are pretty blatant and obvious, while some backgrounds include some very sneaky easter eggs. Are you able to find them?
 
 <img width="25600" alt="image" src="https://github.com/user-attachments/assets/5252aab0-f46d-46bc-b761-16abc0427fa9" />
 

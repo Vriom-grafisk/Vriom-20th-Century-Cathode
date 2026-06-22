@@ -310,13 +310,10 @@ This assumes that you've already got Mega Bezel up and running, with the correct
 
 ### Changelog
 
-**v 3.0.0** 2026.06.19
-
-* Removed vertical background tiling
-
-**v 3.0.0** 2026.06.13
+**v 4.0.0** 2026.06.13
 
 * Added presets for Atari consoles
+* Removed vertical background tiling
 
 **v 3.0.0** 2026.05.23
 

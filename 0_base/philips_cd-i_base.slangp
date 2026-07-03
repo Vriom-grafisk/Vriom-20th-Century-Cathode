@@ -1,0 +1,23 @@
+#reference "crt_base.slangp"
+
+
+# LED
+HSM_LED_OPACITY = "50.000000"
+HSM_LED_SOURCE_MATTE_TYPE = "2.000000"
+
+
+# CRT / SIGNAL
+CS = "0.000000"
+dg_support2 = "0.000100"
+cust_artifacting = "1.700000"
+ntsc_cscale = "1.500002"
+ntsc_ring = "1.000000"
+ntsc_cscale = "0.400000"
+HSHARPNESS = "3.999985"
+SIGMA_HOR = "1.499999"
+
+# MASK
+shadowMask = "0.000000"
+maskstr = "0.500000"
+mcut = "0.900000"
+maskDark = "0.800000"

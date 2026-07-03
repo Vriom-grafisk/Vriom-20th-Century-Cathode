@@ -1,0 +1,2 @@
+#reference "../0_base/sony_psone_base.slangp"
+BackgroundImage = "../0_graphics/sony_psone_bg1.png"

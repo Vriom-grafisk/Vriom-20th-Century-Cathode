@@ -1,0 +1,2 @@
+#reference "../0_base/commodore_cdtv_base.slangp"
+BackgroundImage = "../0_graphics/commodore_cdtv_bg2.png"

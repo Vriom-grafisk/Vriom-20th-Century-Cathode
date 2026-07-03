@@ -14,10 +14,13 @@ I’ve been exploring old game libraries with my youngest daughter, and together
 - [Presets List](#presets-list)
 - [Videos/Screenshots/Technical Rundown](#videosscreenshotstechnical-rundown)
   - [Videos](#videos)
+  - [3DO FZ-1](#3do-fz-1)
   - [Atari 2600](#atari-2600)
   - [Atari 5200](#atari-5200)
   - [Atari 7800](#atari-7800)
   - [Atari Jaguar](#atari-jaguar)
+  - [Commodore CDTV](#commodore-cdtv)
+  - [Commodore Amiga CD32](#commodore-amiga-cd32)
   - [NEC PC Engine/PC Engine Core Grafx/PC Engine Core Grafx II](#nec-pc-enginepc-engine-core-grafxpc-engine-core-grafx-ii)
   - [NEC PC Engine Shuttle](#nec-pc-engine-shuttle)
   - [NEC TurboGrafx-16](#nec-turbografx-16)
@@ -26,12 +29,15 @@ I’ve been exploring old game libraries with my youngest daughter, and together
   - [Nintendo NES/Famicom](#nintendo-nesfamicom)
   - [Nintendo SNES/Super Famicom](#nintendo-snessuper-famicom)
   - [Nintendo 64](#nintendo-64)
+  - [Philips/Magnavox/Goldstar CD-i 450/750/CDI-TV](#philipsmagnavoxgoldstar-cd-i-450750cdi-tv)
   - [Sega SG-1000](#sega-sg-1000)
   - [Sega Mark III/Master System](#sega-mark-iiimaster-system)
   - [Sega Genesis/Mega Drive/32X/Sega CD](#sega-genesismega-drive32xsega-cd)
   - [Sega Saturn](#sega-saturn)
+  - [Sony Playstation/PSOne](#sony-playstationpsone)
 - [Easter Eggs](#easter-eggs)
 - [Installation](#installation)
+- [Legal](#legal)
 - [Changelog](#changelog)
 
 <br>
@@ -52,6 +58,8 @@ The goal is not to accurately reproduce every sub-pixel in a way that’s only p
 
 Post-millennial systems are outside the project’s scope. CRTs survived well into the 2000s, but gen 6 generally didn’t have to work within the CRT limitations the way older, more sprite based systems did. If I do decide to include the 1998 Sega Dreamcast despite it being a gen 6 console, it’ll be included with presets for other CD-based systems.
 
+No LLM/gen AI assistance has been used in the composition of the graphics for this project.
+
 <br>
 
 ### Future Plans/Improvements
@@ -71,12 +79,21 @@ I’m also grateful for feedback on the scripts. I’m not a coder or scripter b
 
 Generally, all presets contain two backgrounds – one barebones and one more elaborate – and dark versions of each of these. There are exceptions.
 
+#### The 3DO Company
+
+* Panasonic 3DO FZ-1 (2 backgrounds + dark modes)
+
 #### Atari
 
 * 2600 (2 backgrounds, 1 "Vader" variant + dark modes)
 * 5200 (2 backgrounds + dark modes)
 * 7800 (2 backgrounds + dark modes)
 * Jaguar (2 backgrounds, 1 "Imagin HotRod" variant + dark modes)
+
+#### Commodore
+
+* CDTV (2 backgrounds + dark modes)
+* Amiga CD32 (2 backgrounds + dark modes)
 
 #### NEC
 
@@ -96,6 +113,12 @@ Generally, all presets contain two backgrounds – one barebones and one more el
 * Super Nintendo Entertainment System US (2 backgrounds + dark modes)
 * Nintendo 64 (Variants based on the Funtastic series: Fire Orange, Grape Purple, Ice Blue, Jungle Green, Smoke Black, Watermelon Red)
 
+#### Philips/Magnavox
+
+* Philips/Magnavox CD-i 450 (2 backgrounds + dark modes)
+* Goldstar CD-i 750 (1 background + dark mode)
+* Philips CDI-TV (open/closed lid + dark modes)
+
 #### Sega
 
 * SG-1000 (1 background + dark modes)
@@ -103,6 +126,11 @@ Generally, all presets contain two backgrounds – one barebones and one more el
 * Master System (2 backgrounds + dark modes)
 * Genesis/Mega Drive/32X/Sega CD (2 backgrounds + dark modes)
 * Saturn (5 variants: Model 1 JP, Model 1 US, Model 2 JP, Model 2 US, Model 2 Skeleton)
+
+#### Sony
+
+* Playstation (2 backgrounds + dark modes)
+* PSOne (2 backgrounds + dark modes)
 
 All presets are also available as +1 integer upscales.
 
@@ -128,8 +156,24 @@ V4: Crash Override
 
 [![20th Century Cathode V4: Crash Override](https://img.youtube.com/vi/aIgfn4-tqJ8/0.jpg)](https://www.youtube.com/watch?v=aIgfn4-tqJ8)
 
+V5: Hot Optics
+
+[![20th Century Cathode V4: Crash Override](https://img.youtube.com/vi/3ENl01XhfH4/0.jpg)](https://www.youtube.com/watch?v=3ENl01XhfH4)
+
 
 Screenshots may be slightly out of date.
+
+<br><br>
+
+#### 3DO FZ-1
+
+The FZ-1 is represented by a Panasonic CT-1384Y merged with a patched together 3DO base.
+
+Several different manufacturers released 3DO consoles, and variants from Panasonic, Goldstar and Sanyo will be included in a future release.
+
+<img width="2560" alt="Road Rash (EU)-260703-113841" src="https://github.com/user-attachments/assets/27406e21-4c4c-4d09-b9ba-de7fa93d06ed" />
+
+<br><br>
 
 #### Atari 2600
 
@@ -139,6 +183,7 @@ I chose to stick to US CRT models for Atari. The 2600 is based on the RCA XL-100
 
 <img width="2560" alt="Star Wars - Return of the Jedi - Death Star Battle (NA)-260614-004713" src="https://github.com/user-attachments/assets/e2139497-f6c0-4b71-98eb-e610371f7780" />
 
+<br><br>
 
 #### Atari 5200
 
@@ -146,11 +191,15 @@ I try to stick to smaller CRTs in this collection, but there's no disguising the
 
 <img width="2560" alt="Frogger (1983) (Parker Bros)-260614-003832" src="https://github.com/user-attachments/assets/bc7a7682-e09f-4d87-b482-dff0dfb54ff3" />
 
+<br><br>
+
 #### Atari 7800
 
 This one was a bit rough, since there were few mid-1980s CRTs that shared the 7800's design sensibilities. Technically this is a General Electric 8-2060 from 1986, but really only some bezel textures remain from the reference images.
 
 <img width="2560" alt="Donkey Kong (USA)-260614-004007" src="https://github.com/user-attachments/assets/197ba65b-3095-49ac-acce-6cfa822763a0" />
+
+<br><br>
 
 #### Atari Jaguar
 
@@ -159,6 +208,24 @@ A heavily modified GE 13GP341 (roughly 2000), which was released a bit late to b
 <img width="2560" alt="Pitfall - The Mayan Adventure (NA)-260613-212159" src="https://github.com/user-attachments/assets/54c6af74-2184-4c51-b6f8-1e5001a5003c" />
 
 <img width="2560" alt="Zool 2 (NA)-260614-004132" src="https://github.com/user-attachments/assets/c8464de5-2b39-4727-b3bd-9119b66a13f7" />
+
+<br><br>
+
+#### Commodore CDTV
+
+This one is a bit of a departure, as I've simply taken the classic Commodore 1084S monitor and cleaned and squared it up. Not many of these consoles have a singular CRT model serve as their "face", so it seemed appropriate. There are variants with the bottom lid open and closed.
+
+<img width="2560" alt="Guy Spy and the Crystals of Armageddon-260703-135636" src="https://github.com/user-attachments/assets/753f6197-bb39-4ac4-b197-b0a4d6ac473e" />
+
+<br><br>
+
+#### Commodore Amiga CD32
+
+Since the CDTV preset was so straight down the barrel, I decided to compensate by making the Amiga CD32 quite a bit weirded. Don't worry, the CDTV preset is still compatible if you want to use that instead. The preset is based on the Zenith B25A02Z.
+
+<img width="2560" alt="Fly Harder-260703-140325" src="https://github.com/user-attachments/assets/3fe602d6-63fa-4f27-bae3-19d582ef9053" />
+
+<br><br>
 
 #### NEC PC Engine/PC Engine Core Grafx/PC Engine Core Grafx II
 
@@ -170,6 +237,8 @@ PC Engine is a teeny tiny rounded square, so Sony Trinitron KV9PT50 was a pretty
 
 <img width="2560" alt="Air Zonk (USA)-260523-232624" src="https://github.com/user-attachments/assets/9701112d-fe3a-4af4-81e5-5e1be99f6e4d" />
 
+<br><br>
+
 #### NEC PC Engine Shuttle
 
 The Shuttle is derived from the PC engine preset, but at this point nothing really remains of the original reference. A kitbashed monstrosity that's more console than TV. The dark mode of the main background features glow-in-the-dark wall stickers.
@@ -178,11 +247,15 @@ The Shuttle is derived from the PC engine preset, but at this point nothing real
 
 <img width="2560" alt="Blazing Lazers (USA)-260523-233547" src="https://github.com/user-attachments/assets/acfe57c9-2457-44bc-a26d-b417afa969f4" />
 
+<br><br>
+
 #### NEC TurboGrafx-16
 
 The TurboGrafx-16 preset is a modified Sony Trinitron KV-32S42, but with a lot more attitude. Loud and clashing colors were back on the menu with the US adaptation of the PC Engine. 
 
 <img width="2560" alt="Fighting Street (USA)-260523-233923" src="https://github.com/user-attachments/assets/bf6eb57f-1a93-4aa3-8ff1-7adbab9752c5" />
+
+<br><br>
 
 #### NEC SuperGrafx
 
@@ -190,11 +263,15 @@ The SuperGrafx console looks like a guitar pedal from a 1980s cyberpunk movie, s
 
 <img width="2560" alt="Aldynes - The Misson Code for Rage Crisis (Japan)-260523-234735" src="https://github.com/user-attachments/assets/dc8853e5-be6a-4337-96b6-7a965c2df5b9" />
 
+<br><br>
+
 #### NEC PC-FX
 
 This one was also a bit tricky, since the console looks like a tiny computer cabinet. I figured it was time to use an actual NEC screen, so this is technically based on the Multisync A700+, though little remains beyond the texture. A pretty sober look for the thirstiest console ever released.
 
 <img width="2560" alt="Chip-chan Kick! (Japan)-260523-235537" src="https://github.com/user-attachments/assets/e6616fa1-e9d0-4900-ae97-8905cdc7cccb" />
+
+<br><br>
 
 #### Nintendo NES/Famicom
 
@@ -248,7 +325,22 @@ N64 games are notoriously inconsistent when it comes to scaling. The preset snap
 
 <img width="2559" height="1437" alt="image" src="https://github.com/user-attachments/assets/65f257bd-7931-451f-b513-e5b6493f093c" />
 
-<br>
+<br><br>
+
+#### Philips/Magnavox/Goldstar CD-i 450/750/CDI-TV
+
+Like the 3DO, the CD-i was a bit brand ambiguous, so I've thrown in variants from Philips, Magnavox (technically also Philips) and GoldStar. These are all based on Magnavox RH4251. Philips also released the CDI-TV, a CRT/CD-i combo, so that's in here as well.
+
+<img width="2560" alt="Apprentice, The (USA)-260703-141437" src="https://github.com/user-attachments/assets/ae95dd35-db0c-4636-89a9-b45d40a5c8e2" />
+
+<img width="2560" alt="CD-i Means Business (USA)-260703-141545" src="https://github.com/user-attachments/assets/afa96d01-bebc-4473-aa9f-26f054702351" />
+
+<img width="2560" alt="Link - The Faces of Evil (USA)-260703-141859" src="https://github.com/user-attachments/assets/3dc54b3c-fb74-41d0-8388-feb197649988" />
+
+<img width="2560" alt="Apprentice, The (USA)-260703-141346" src="https://github.com/user-attachments/assets/b215c056-1e78-4e7a-9927-97668866504c" />
+
+
+<br><br>
 
 #### Sega SG-1000
 
@@ -256,7 +348,7 @@ I got a bit goofy with this one. The preset is based on Panasonic TR-602S, and t
 
 <img width="2560" alt="Rock n&#39; Bolt (JP)-260416-134554" src="https://github.com/user-attachments/assets/2068194c-1eb9-468a-a4a7-333bd0369126" />
 
-<br>
+<br><br>
 
 #### Sega Mark III/Master System
 
@@ -264,10 +356,9 @@ The Mark III is based on the RCA FPR505W, while the Master System is a Sansui SV
 
 <img width="2560" alt="Sega Flipper (JP)-260416-140814" src="https://github.com/user-attachments/assets/80f45e7b-344b-4a5b-ab33-374d0cf53c9b" />
 
-
 <img width="2560" alt="Alex Kidd in Miracle World (USA, Europe)-260416-140954" src="https://github.com/user-attachments/assets/6639953b-0dc3-494e-94f9-4b0ae5569ee0" />
 
-<br>
+<br><br>
 
 #### Sega Genesis/Mega Drive/32X/Sega CD
 
@@ -275,8 +366,7 @@ In an attempt to recreate the infamous "tower of power", I've stacked a modified
 
 <img width="2560" alt="Clay Fighter-260416-180440" src="https://github.com/user-attachments/assets/dd0c245a-64f1-4bc1-b536-2642010c930c" />
 
-
-<br>
+<br><br>
 
 #### Sega Saturn
 
@@ -290,9 +380,19 @@ Built around a Zenith H1301L prison TV, which was translucent to deter inmates f
 
 <br><br>
 
+#### Sony PlayStation/PSOne
+
+It was a given that the PlayStation would use Sony screens. The original model uses a Trinitron KV-14LT1B, while PSOne's KV-9PT50 is the first double dip of the project. It already represented the PC Engine, but there really was no other alternative when I was going to recreate the toy-like mini version of PS1.
+
+<img width="2560" alt="Castlevania - Symphony of the Night (USA) (Track 1)-260703-143420" src="https://github.com/user-attachments/assets/571e2f54-ca89-4b1a-ba4c-2dc464147b42" />
+
+<img width="2560" alt="PaRappa the Rapper (USA) (En,Fr,De,Es,It)-260703-143543" src="https://github.com/user-attachments/assets/21ae90af-8ce0-41bf-8eaa-facfe0025e92" />
+
+<br><br>
+
 ### Easter Eggs
 
-Most main backgrounds (bg1) contain references or visual puns. Most are are pretty blatant and obvious, while some backgrounds include some very sneaky easter eggs. Are you able to find them?
+Many backgrounds contain references or visual puns. Most are are pretty blatant and obvious, while some backgrounds include some very sneaky easter eggs. Are you able to find them?
 
 <img width="25600" alt="image" src="https://github.com/user-attachments/assets/5252aab0-f46d-46bc-b761-16abc0427fa9" />
 
@@ -308,7 +408,18 @@ This assumes that you've already got Mega Bezel up and running, with the correct
 
 <br>
 
+### Legal
+
+You may use these presets and their graphics in any way you see fit, including in video production and streaming, but you may not package/distribute them for profit.
+
+<br>
+
 ### Changelog
+
+**v 5.0.0** 2026.07.03
+
+* Added presets for several CD-based systems
+* Adjusted masks for +1 integer pipelines
 
 **v 4.0.0** 2026.06.13
 

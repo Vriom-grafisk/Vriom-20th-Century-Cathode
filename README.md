@@ -221,7 +221,7 @@ This one is a bit of a departure, as I've simply taken the classic Commodore 108
 
 #### Commodore Amiga CD32
 
-Since the CDTV preset was so straight down the barrel, I decided to compensate by making the Amiga CD32 quite a bit weirded. Don't worry, the CDTV preset is still compatible if you want to use that instead. The preset is based on the Zenith B25A02Z.
+Since the CDTV preset was so straight down the barrel, I decided to compensate by getting a bit weird with the Amiga CD32. Don't worry, the CDTV preset is still compatible if you want to use that instead. The preset is based on the Zenith B25A02Z.
 
 <img width="2560" alt="Fly Harder-260703-140325" src="https://github.com/user-attachments/assets/3fe602d6-63fa-4f27-bae3-19d582ef9053" />
 
